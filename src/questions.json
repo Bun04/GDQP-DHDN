@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 1,
+    "chapter": 1,
+    "question": "Phương pháp luận chung nhất để nghiên cứu GDQP-AN dựa trên cơ sở nào?",
+    "options": [
+      "Chỉ dựa vào kiến thức quân sự nước ngoài",
+      "Chủ nghĩa thực dụng và kinh nghiệm cá nhân",
+      "Chỉ dựa vào các quy định hành chính",
+      "Học thuyết Mác – Lênin và tư tưởng Hồ Chí Minh"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 2,
+    "chapter": 1,
+    "question": "Chọn nhận định đúng nhất: phương pháp luận chung nhất để nghiên cứu GDQP-AN dựa trên cơ sở nào?",
+    "options": [
+      "Chỉ dựa vào các quy định hành chính",
+      "Chỉ dựa vào kiến thức quân sự nước ngoài",
+      "Học thuyết Mác – Lênin và tư tưởng Hồ Chí Minh",
+      "Chủ nghĩa thực dụng và kinh nghiệm cá nhân"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "chapter": 1,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: phương pháp luận chung nhất để nghiên cứu GDQP-AN dựa trên cơ sở nào?",
+    "options": [
+      "Chủ nghĩa thực dụng và kinh nghiệm cá nhân",
+      "Chỉ dựa vào các quy định hành chính",
+      "Chỉ dựa vào kiến thức quân sự nước ngoài",
+      "Học thuyết Mác – Lênin và tư tưởng Hồ Chí Minh"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 4,
+    "chapter": 1,
+    "question": "Phương pháp nghiên cứu GDQP-AN cần kết hợp những yếu tố nào?",
+    "options": [
+      "Chỉ học thuộc lòng văn bản",
+      "Chỉ quan sát mà không phân tích",
+      "Lý thuyết, thực tiễn và tạo tình huống",
+      "Chỉ thực hành, không cần lý luận"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "chapter": 1,
+    "question": "Chọn nhận định đúng nhất: phương pháp nghiên cứu GDQP-AN cần kết hợp những yếu tố nào?",
+    "options": [
+      "Chỉ học thuộc lòng văn bản",
+      "Chỉ quan sát mà không phân tích",
+      "Chỉ thực hành, không cần lý luận",
+      "Lý thuyết, thực tiễn và tạo tình huống"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 6,
+    "chapter": 1,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: phương pháp nghiên cứu GDQP-AN cần kết hợp những yếu tố nào?",
+    "options": [
+      "Chỉ học thuộc lòng văn bản",
+      "Chỉ thực hành, không cần lý luận",
+      "Chỉ quan sát mà không phân tích",
+      "Lý thuyết, thực tiễn và tạo tình huống"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 7,
+    "chapter": 1,
+    "question": "Học phần 1 của môn GDQP-AN có tên gọi nào?",
+    "options": [
+      "Quân sự chung",
+      "Công tác quốc phòng – an ninh",
+      "Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam",
+      "Kỹ thuật chiến đấu bộ binh và chiến thuật"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "chapter": 1,
+    "question": "Chọn nhận định đúng nhất: học phần 1 của môn GDQP-AN có tên gọi nào?",
+    "options": [
+      "Công tác quốc phòng – an ninh",
+      "Kỹ thuật chiến đấu bộ binh và chiến thuật",
+      "Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam",
+      "Quân sự chung"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "chapter": 1,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: học phần 1 của môn GDQP-AN có tên gọi nào?",
+    "options": [
+      "Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam",
+      "Quân sự chung",
+      "Công tác quốc phòng – an ninh",
+      "Kỹ thuật chiến đấu bộ binh và chiến thuật"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "chapter": 1,
+    "question": "Theo đề cương tham khảo, chương trình GDQP-AN ở trình độ đại học được chia thành bao nhiêu học phần?",
+    "options": [
+      "3 học phần",
+      "5 học phần",
+      "4 học phần",
+      "2 học phần"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "chapter": 1,
+    "question": "Chọn nhận định đúng nhất: theo đề cương tham khảo, chương trình GDQP-AN ở trình độ đại học được chia thành bao nhiêu học phần?",
+    "options": [
+      "3 học phần",
+      "2 học phần",
+      "5 học phần",
+      "4 học phần"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 12,
+    "chapter": 1,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: theo đề cương tham khảo, chương trình GDQP-AN ở trình độ đại học được chia thành bao nhiêu học phần?",
+    "options": [
+      "5 học phần",
+      "3 học phần",
+      "2 học phần",
+      "4 học phần"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 13,
+    "chapter": 1,
+    "question": "Theo đề cương tham khảo, tổng thời lượng chương trình GDQP-AN là bao nhiêu tiết?",
+    "options": [
+      "180 tiết",
+      "120 tiết",
+      "165 tiết",
+      "150 tiết"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "chapter": 1,
+    "question": "Chọn nhận định đúng nhất: theo đề cương tham khảo, tổng thời lượng chương trình GDQP-AN là bao nhiêu tiết?",
+    "options": [
+      "150 tiết",
+      "180 tiết",
+      "120 tiết",
+      "165 tiết"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 15,
+    "chapter": 1,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: theo đề cương tham khảo, tổng thời lượng chương trình GDQP-AN là bao nhiêu tiết?",
+    "options": [
+      "165 tiết",
+      "120 tiết",
+      "180 tiết",
+      "150 tiết"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "chapter": 1,
+    "question": "Theo đề cương tham khảo, học phần 1 có thời lượng bao nhiêu tiết?",
+    "options": [
+      "75 tiết",
+      "45 tiết",
+      "60 tiết",
+      "30 tiết"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "chapter": 1,
+    "question": "Chọn nhận định đúng nhất: theo đề cương tham khảo, học phần 1 có thời lượng bao nhiêu tiết?",
+    "options": [
+      "30 tiết",
+      "75 tiết",
+      "60 tiết",
+      "45 tiết"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 18,
+    "chapter": 1,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: theo đề cương tham khảo, học phần 1 có thời lượng bao nhiêu tiết?",
+    "options": [
+      "30 tiết",
+      "75 tiết",
+      "45 tiết",
+      "60 tiết"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "chapter": 1,
+    "question": "Nội dung nào thể hiện đúng mục đích học tập GDQP-AN của sinh viên?",
+    "options": [
+      "Chỉ nhằm rèn luyện thể lực",
+      "Thay thế toàn bộ kiến thức chuyên ngành",
+      "Chỉ để hoàn thành điều kiện điểm số",
+      "Nâng cao nhận thức, trách nhiệm đối với nhiệm vụ xây dựng và bảo vệ Tổ quốc"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 20,
+    "chapter": 1,
+    "question": "Chọn nhận định đúng nhất: nội dung nào thể hiện đúng mục đích học tập GDQP-AN của sinh viên?",
+    "options": [
+      "Nâng cao nhận thức, trách nhiệm đối với nhiệm vụ xây dựng và bảo vệ Tổ quốc",
+      "Chỉ để hoàn thành điều kiện điểm số",
+      "Thay thế toàn bộ kiến thức chuyên ngành",
+      "Chỉ nhằm rèn luyện thể lực"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "chapter": 1,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: nội dung nào thể hiện đúng mục đích học tập GDQP-AN của sinh viên?",
+    "options": [
+      "Nâng cao nhận thức, trách nhiệm đối với nhiệm vụ xây dựng và bảo vệ Tổ quốc",
+      "Thay thế toàn bộ kiến thức chuyên ngành",
+      "Chỉ nhằm rèn luyện thể lực",
+      "Chỉ để hoàn thành điều kiện điểm số"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "chapter": 1,
+    "question": "Học phần 1 trong đề cương tham khảo gồm bao nhiêu bài?",
+    "options": [
+      "11 bài",
+      "10 bài",
+      "8 bài",
+      "7 bài"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "chapter": 1,
+    "question": "Chọn nhận định đúng nhất: học phần 1 trong đề cương tham khảo gồm bao nhiêu bài?",
+    "options": [
+      "7 bài",
+      "10 bài",
+      "8 bài",
+      "11 bài"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 24,
+    "chapter": 1,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: học phần 1 trong đề cương tham khảo gồm bao nhiêu bài?",
+    "options": [
+      "8 bài",
+      "10 bài",
+      "11 bài",
+      "7 bài"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 25,
+    "chapter": 1,
+    "question": "Học phần 2 trong chương trình GDQP-AN có tên gọi nào?",
+    "options": [
+      "Quân sự chung",
+      "Công tác quốc phòng – an ninh",
+      "Đường lối quốc phòng và an ninh của Đảng",
+      "Lịch sử nghệ thuật quân sự"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "chapter": 1,
+    "question": "Chọn nhận định đúng nhất: học phần 2 trong chương trình GDQP-AN có tên gọi nào?",
+    "options": [
+      "Đường lối quốc phòng và an ninh của Đảng",
+      "Lịch sử nghệ thuật quân sự",
+      "Công tác quốc phòng – an ninh",
+      "Quân sự chung"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "chapter": 1,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: học phần 2 trong chương trình GDQP-AN có tên gọi nào?",
+    "options": [
+      "Lịch sử nghệ thuật quân sự",
+      "Quân sự chung",
+      "Đường lối quốc phòng và an ninh của Đảng",
+      "Công tác quốc phòng – an ninh"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 28,
+    "chapter": 1,
+    "question": "Khi nghiên cứu một vấn đề quốc phòng, cách tiếp cận phù hợp là gì?",
+    "options": [
+      "Tách rời lý luận khỏi thực tiễn",
+      "Bỏ qua bối cảnh lịch sử",
+      "Kết hợp phân tích lý luận với liên hệ thực tiễn",
+      "Chỉ dựa vào ý kiến cá nhân"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "chapter": 1,
+    "question": "Chọn nhận định đúng nhất: khi nghiên cứu một vấn đề quốc phòng, cách tiếp cận phù hợp là gì?",
+    "options": [
+      "Bỏ qua bối cảnh lịch sử",
+      "Tách rời lý luận khỏi thực tiễn",
+      "Kết hợp phân tích lý luận với liên hệ thực tiễn",
+      "Chỉ dựa vào ý kiến cá nhân"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "chapter": 1,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: khi nghiên cứu một vấn đề quốc phòng, cách tiếp cận phù hợp là gì?",
+    "options": [
+      "Kết hợp phân tích lý luận với liên hệ thực tiễn",
+      "Tách rời lý luận khỏi thực tiễn",
+      "Chỉ dựa vào ý kiến cá nhân",
+      "Bỏ qua bối cảnh lịch sử"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "chapter": 2,
+    "question": "Theo quan điểm Mác – Lênin, chiến tranh là hiện tượng gì?",
+    "options": [
+      "Hoạt động kinh tế thuần túy",
+      "Hiện tượng chính trị – xã hội có tính lịch sử",
+      "Hiện tượng chỉ xuất hiện trong thời bình",
+      "Hiện tượng tự nhiên không chịu tác động xã hội"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "chapter": 2,
+    "question": "Chọn nhận định đúng nhất: theo quan điểm Mác – Lênin, chiến tranh là hiện tượng gì?",
+    "options": [
+      "Hiện tượng chính trị – xã hội có tính lịch sử",
+      "Hiện tượng chỉ xuất hiện trong thời bình",
+      "Hoạt động kinh tế thuần túy",
+      "Hiện tượng tự nhiên không chịu tác động xã hội"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "chapter": 2,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: theo quan điểm Mác – Lênin, chiến tranh là hiện tượng gì?",
+    "options": [
+      "Hiện tượng chính trị – xã hội có tính lịch sử",
+      "Hiện tượng tự nhiên không chịu tác động xã hội",
+      "Hoạt động kinh tế thuần túy",
+      "Hiện tượng chỉ xuất hiện trong thời bình"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "chapter": 2,
+    "question": "Theo quan điểm Lênin, bảo vệ Tổ quốc xã hội chủ nghĩa là trách nhiệm của ai?",
+    "options": [
+      "Chỉ lực lượng quân đội",
+      "Chỉ người trong độ tuổi lao động",
+      "Toàn dân",
+      "Chỉ cơ quan nhà nước"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "chapter": 2,
+    "question": "Chọn nhận định đúng nhất: theo quan điểm Lênin, bảo vệ Tổ quốc xã hội chủ nghĩa là trách nhiệm của ai?",
+    "options": [
+      "Chỉ lực lượng quân đội",
+      "Chỉ cơ quan nhà nước",
+      "Toàn dân",
+      "Chỉ người trong độ tuổi lao động"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "chapter": 2,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: theo quan điểm Lênin, bảo vệ Tổ quốc xã hội chủ nghĩa là trách nhiệm của ai?",
+    "options": [
+      "Chỉ lực lượng quân đội",
+      "Chỉ cơ quan nhà nước",
+      "Chỉ người trong độ tuổi lao động",
+      "Toàn dân"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 37,
+    "chapter": 2,
+    "question": "Theo tư tưởng Hồ Chí Minh, Quân đội nhân dân Việt Nam mang bản chất giai cấp nào?",
+    "options": [
+      "Giai cấp tư sản",
+      "Giai cấp công nhân",
+      "Giai cấp địa chủ",
+      "Không mang bản chất giai cấp"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "chapter": 2,
+    "question": "Chọn nhận định đúng nhất: theo tư tưởng Hồ Chí Minh, Quân đội nhân dân Việt Nam mang bản chất giai cấp nào?",
+    "options": [
+      "Giai cấp công nhân",
+      "Giai cấp địa chủ",
+      "Giai cấp tư sản",
+      "Không mang bản chất giai cấp"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "chapter": 2,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: theo tư tưởng Hồ Chí Minh, Quân đội nhân dân Việt Nam mang bản chất giai cấp nào?",
+    "options": [
+      "Giai cấp tư sản",
+      "Giai cấp công nhân",
+      "Không mang bản chất giai cấp",
+      "Giai cấp địa chủ"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "chapter": 2,
+    "question": "Quân đội nhân dân Việt Nam có những chức năng cơ bản nào theo tư tưởng Hồ Chí Minh?",
+    "options": [
+      "Chỉ làm công tác hành chính",
+      "Chỉ chiến đấu và huấn luyện",
+      "Chỉ sản xuất và kinh doanh",
+      "Đội quân chiến đấu, đội quân công tác và đội quân lao động sản xuất"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 41,
+    "chapter": 2,
+    "question": "Chọn nhận định đúng nhất: quân đội nhân dân Việt Nam có những chức năng cơ bản nào theo tư tưởng Hồ Chí Minh?",
+    "options": [
+      "Chỉ làm công tác hành chính",
+      "Chỉ chiến đấu và huấn luyện",
+      "Đội quân chiến đấu, đội quân công tác và đội quân lao động sản xuất",
+      "Chỉ sản xuất và kinh doanh"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 42,
+    "chapter": 2,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: quân đội nhân dân Việt Nam có những chức năng cơ bản nào theo tư tưởng Hồ Chí Minh?",
+    "options": [
+      "Chỉ sản xuất và kinh doanh",
+      "Chỉ chiến đấu và huấn luyện",
+      "Đội quân chiến đấu, đội quân công tác và đội quân lao động sản xuất",
+      "Chỉ làm công tác hành chính"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 43,
+    "chapter": 2,
+    "question": "Tư duy bảo vệ Tổ quốc trong tình hình mới nhấn mạnh yêu cầu nào?",
+    "options": [
+      "Chỉ chú trọng biện pháp quân sự",
+      "Chỉ xử lý khi nguy cơ đã xảy ra",
+      "Tách quốc phòng khỏi đối ngoại",
+      "Chủ động ngăn ngừa nguy cơ từ sớm, từ xa"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 44,
+    "chapter": 2,
+    "question": "Chọn nhận định đúng nhất: tư duy bảo vệ Tổ quốc trong tình hình mới nhấn mạnh yêu cầu nào?",
+    "options": [
+      "Chỉ chú trọng biện pháp quân sự",
+      "Chủ động ngăn ngừa nguy cơ từ sớm, từ xa",
+      "Tách quốc phòng khỏi đối ngoại",
+      "Chỉ xử lý khi nguy cơ đã xảy ra"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "chapter": 2,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: tư duy bảo vệ Tổ quốc trong tình hình mới nhấn mạnh yêu cầu nào?",
+    "options": [
+      "Chỉ xử lý khi nguy cơ đã xảy ra",
+      "Chủ động ngăn ngừa nguy cơ từ sớm, từ xa",
+      "Chỉ chú trọng biện pháp quân sự",
+      "Tách quốc phòng khỏi đối ngoại"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "chapter": 2,
+    "question": "Nguyên tắc lãnh đạo của Đảng đối với Quân đội nhân dân Việt Nam được xác định như thế nào?",
+    "options": [
+      "Quân đội tự quyết định mọi vấn đề",
+      "Đảng lãnh đạo tuyệt đối, trực tiếp về mọi mặt",
+      "Chỉ chịu sự quản lý của chính quyền địa phương",
+      "Đảng chỉ định hướng chung"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 47,
+    "chapter": 2,
+    "question": "Chọn nhận định đúng nhất: nguyên tắc lãnh đạo của Đảng đối với Quân đội nhân dân Việt Nam được xác định như thế nào?",
+    "options": [
+      "Chỉ chịu sự quản lý của chính quyền địa phương",
+      "Đảng chỉ định hướng chung",
+      "Quân đội tự quyết định mọi vấn đề",
+      "Đảng lãnh đạo tuyệt đối, trực tiếp về mọi mặt"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 48,
+    "chapter": 2,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: nguyên tắc lãnh đạo của Đảng đối với Quân đội nhân dân Việt Nam được xác định như thế nào?",
+    "options": [
+      "Đảng chỉ định hướng chung",
+      "Quân đội tự quyết định mọi vấn đề",
+      "Đảng lãnh đạo tuyệt đối, trực tiếp về mọi mặt",
+      "Chỉ chịu sự quản lý của chính quyền địa phương"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 49,
+    "chapter": 2,
+    "question": "Trong điều kiện nhất định, yếu tố chính trị – tinh thần có vai trò gì đối với sức mạnh chiến đấu?",
+    "options": [
+      "Chỉ quyết định trang bị kỹ thuật",
+      "Là yếu tố quan trọng tạo nên sức mạnh chiến đấu",
+      "Không có ảnh hưởng",
+      "Chỉ có ý nghĩa trong thời bình"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 50,
+    "chapter": 2,
+    "question": "Chọn nhận định đúng nhất: trong điều kiện nhất định, yếu tố chính trị – tinh thần có vai trò gì đối với sức mạnh chiến đấu?",
+    "options": [
+      "Không có ảnh hưởng",
+      "Chỉ có ý nghĩa trong thời bình",
+      "Chỉ quyết định trang bị kỹ thuật",
+      "Là yếu tố quan trọng tạo nên sức mạnh chiến đấu"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 51,
+    "chapter": 2,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: trong điều kiện nhất định, yếu tố chính trị – tinh thần có vai trò gì đối với sức mạnh chiến đấu?",
+    "options": [
+      "Chỉ quyết định trang bị kỹ thuật",
+      "Không có ảnh hưởng",
+      "Chỉ có ý nghĩa trong thời bình",
+      "Là yếu tố quan trọng tạo nên sức mạnh chiến đấu"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 52,
+    "chapter": 2,
+    "question": "Đối sách bảo vệ Tổ quốc được đề cập trong đề cương là gì?",
+    "options": [
+      "Cứng nhắc trong mọi tình huống",
+      "Tránh mọi hoạt động đối ngoại",
+      "Chỉ sử dụng một biện pháp duy nhất",
+      "Kiên quyết, kiên trì; mềm dẻo, linh hoạt và sáng tạo"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 53,
+    "chapter": 2,
+    "question": "Chọn nhận định đúng nhất: đối sách bảo vệ Tổ quốc được đề cập trong đề cương là gì?",
+    "options": [
+      "Kiên quyết, kiên trì; mềm dẻo, linh hoạt và sáng tạo",
+      "Tránh mọi hoạt động đối ngoại",
+      "Chỉ sử dụng một biện pháp duy nhất",
+      "Cứng nhắc trong mọi tình huống"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 54,
+    "chapter": 2,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: đối sách bảo vệ Tổ quốc được đề cập trong đề cương là gì?",
+    "options": [
+      "Kiên quyết, kiên trì; mềm dẻo, linh hoạt và sáng tạo",
+      "Chỉ sử dụng một biện pháp duy nhất",
+      "Tránh mọi hoạt động đối ngoại",
+      "Cứng nhắc trong mọi tình huống"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 55,
+    "chapter": 2,
+    "question": "Bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa gắn liền với nhiệm vụ nào?",
+    "options": [
+      "Chỉ bảo tồn di sản",
+      "Xây dựng và bảo vệ Tổ quốc",
+      "Chỉ mở rộng quan hệ thương mại",
+      "Chỉ phát triển kinh tế"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 56,
+    "chapter": 2,
+    "question": "Chọn nhận định đúng nhất: bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa gắn liền với nhiệm vụ nào?",
+    "options": [
+      "Xây dựng và bảo vệ Tổ quốc",
+      "Chỉ bảo tồn di sản",
+      "Chỉ phát triển kinh tế",
+      "Chỉ mở rộng quan hệ thương mại"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 57,
+    "chapter": 2,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa gắn liền với nhiệm vụ nào?",
+    "options": [
+      "Xây dựng và bảo vệ Tổ quốc",
+      "Chỉ phát triển kinh tế",
+      "Chỉ mở rộng quan hệ thương mại",
+      "Chỉ bảo tồn di sản"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 58,
+    "chapter": 2,
+    "question": "Theo tư tưởng Hồ Chí Minh, sức mạnh của quân đội cần được xây dựng trên cơ sở nào?",
+    "options": [
+      "Chỉ dựa vào số lượng quân số",
+      "Chỉ dựa vào trang bị",
+      "Tách rời nhân dân",
+      "Sự lãnh đạo của Đảng, đoàn kết quân dân và bản lĩnh chính trị"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 59,
+    "chapter": 2,
+    "question": "Chọn nhận định đúng nhất: theo tư tưởng Hồ Chí Minh, sức mạnh của quân đội cần được xây dựng trên cơ sở nào?",
+    "options": [
+      "Chỉ dựa vào trang bị",
+      "Tách rời nhân dân",
+      "Chỉ dựa vào số lượng quân số",
+      "Sự lãnh đạo của Đảng, đoàn kết quân dân và bản lĩnh chính trị"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 60,
+    "chapter": 2,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: theo tư tưởng Hồ Chí Minh, sức mạnh của quân đội cần được xây dựng trên cơ sở nào?",
+    "options": [
+      "Tách rời nhân dân",
+      "Sự lãnh đạo của Đảng, đoàn kết quân dân và bản lĩnh chính trị",
+      "Chỉ dựa vào trang bị",
+      "Chỉ dựa vào số lượng quân số"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 61,
+    "chapter": 3,
+    "question": "Theo Luật Quốc phòng 2018, quốc phòng được hiểu khái quát là gì?",
+    "options": [
+      "Hoạt động riêng của quân đội",
+      "Hoạt động kinh tế của doanh nghiệp",
+      "Công việc chỉ tiến hành khi có chiến tranh",
+      "Công cuộc giữ nước bằng sức mạnh tổng hợp của toàn dân tộc"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 62,
+    "chapter": 3,
+    "question": "Chọn nhận định đúng nhất: theo Luật Quốc phòng 2018, quốc phòng được hiểu khái quát là gì?",
+    "options": [
+      "Công việc chỉ tiến hành khi có chiến tranh",
+      "Hoạt động kinh tế của doanh nghiệp",
+      "Công cuộc giữ nước bằng sức mạnh tổng hợp của toàn dân tộc",
+      "Hoạt động riêng của quân đội"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 63,
+    "chapter": 3,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: theo Luật Quốc phòng 2018, quốc phòng được hiểu khái quát là gì?",
+    "options": [
+      "Hoạt động riêng của quân đội",
+      "Công việc chỉ tiến hành khi có chiến tranh",
+      "Công cuộc giữ nước bằng sức mạnh tổng hợp của toàn dân tộc",
+      "Hoạt động kinh tế của doanh nghiệp"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 64,
+    "chapter": 3,
+    "question": "Nền quốc phòng toàn dân Việt Nam mang tính chất nào?",
+    "options": [
+      "Toàn dân, toàn diện, độc lập, tự chủ, tự lực, tự cường và chính nghĩa",
+      "Chỉ dựa vào lực lượng chuyên nghiệp",
+      "Chỉ tập trung ở khu vực biên giới",
+      "Phụ thuộc hoàn toàn vào bên ngoài"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 65,
+    "chapter": 3,
+    "question": "Chọn nhận định đúng nhất: nền quốc phòng toàn dân Việt Nam mang tính chất nào?",
+    "options": [
+      "Chỉ tập trung ở khu vực biên giới",
+      "Toàn dân, toàn diện, độc lập, tự chủ, tự lực, tự cường và chính nghĩa",
+      "Phụ thuộc hoàn toàn vào bên ngoài",
+      "Chỉ dựa vào lực lượng chuyên nghiệp"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 66,
+    "chapter": 3,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: nền quốc phòng toàn dân Việt Nam mang tính chất nào?",
+    "options": [
+      "Phụ thuộc hoàn toàn vào bên ngoài",
+      "Chỉ dựa vào lực lượng chuyên nghiệp",
+      "Toàn dân, toàn diện, độc lập, tự chủ, tự lực, tự cường và chính nghĩa",
+      "Chỉ tập trung ở khu vực biên giới"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 67,
+    "chapter": 3,
+    "question": "Xây dựng nền quốc phòng toàn dân là trách nhiệm của lực lượng nào?",
+    "options": [
+      "Chỉ Bộ Quốc phòng",
+      "Chỉ chính quyền cấp tỉnh",
+      "Toàn dân, trong đó lực lượng vũ trang làm nòng cốt",
+      "Chỉ lực lượng thường trực"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 68,
+    "chapter": 3,
+    "question": "Chọn nhận định đúng nhất: xây dựng nền quốc phòng toàn dân là trách nhiệm của lực lượng nào?",
+    "options": [
+      "Chỉ lực lượng thường trực",
+      "Chỉ Bộ Quốc phòng",
+      "Chỉ chính quyền cấp tỉnh",
+      "Toàn dân, trong đó lực lượng vũ trang làm nòng cốt"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 69,
+    "chapter": 3,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: xây dựng nền quốc phòng toàn dân là trách nhiệm của lực lượng nào?",
+    "options": [
+      "Toàn dân, trong đó lực lượng vũ trang làm nòng cốt",
+      "Chỉ lực lượng thường trực",
+      "Chỉ Bộ Quốc phòng",
+      "Chỉ chính quyền cấp tỉnh"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 70,
+    "chapter": 3,
+    "question": "Tiềm lực quốc phòng được hiểu là gì?",
+    "options": [
+      "Chỉ số lượng vũ khí",
+      "Khả năng về nhân lực, vật lực, tài chính và các yếu tố cần thiết khác",
+      "Chỉ diện tích lãnh thổ",
+      "Chỉ nguồn thu ngân sách"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 71,
+    "chapter": 3,
+    "question": "Chọn nhận định đúng nhất: tiềm lực quốc phòng được hiểu là gì?",
+    "options": [
+      "Chỉ diện tích lãnh thổ",
+      "Chỉ số lượng vũ khí",
+      "Chỉ nguồn thu ngân sách",
+      "Khả năng về nhân lực, vật lực, tài chính và các yếu tố cần thiết khác"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 72,
+    "chapter": 3,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: tiềm lực quốc phòng được hiểu là gì?",
+    "options": [
+      "Chỉ số lượng vũ khí",
+      "Chỉ nguồn thu ngân sách",
+      "Khả năng về nhân lực, vật lực, tài chính và các yếu tố cần thiết khác",
+      "Chỉ diện tích lãnh thổ"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 73,
+    "chapter": 3,
+    "question": "Tiềm lực chính trị – tinh thần có vai trò nổi bật nào?",
+    "options": [
+      "Không liên quan đến quốc phòng",
+      "Chỉ phản ánh quy mô dân số",
+      "Là nền tảng quan trọng tạo nên sức mạnh quốc phòng, an ninh",
+      "Chỉ phục vụ hoạt động văn hóa"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 74,
+    "chapter": 3,
+    "question": "Chọn nhận định đúng nhất: tiềm lực chính trị – tinh thần có vai trò nổi bật nào?",
+    "options": [
+      "Không liên quan đến quốc phòng",
+      "Là nền tảng quan trọng tạo nên sức mạnh quốc phòng, an ninh",
+      "Chỉ phản ánh quy mô dân số",
+      "Chỉ phục vụ hoạt động văn hóa"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 75,
+    "chapter": 3,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: tiềm lực chính trị – tinh thần có vai trò nổi bật nào?",
+    "options": [
+      "Chỉ phản ánh quy mô dân số",
+      "Là nền tảng quan trọng tạo nên sức mạnh quốc phòng, an ninh",
+      "Chỉ phục vụ hoạt động văn hóa",
+      "Không liên quan đến quốc phòng"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 76,
+    "chapter": 3,
+    "question": "Tiềm lực kinh tế tạo cơ sở chủ yếu nào cho quốc phòng, an ninh?",
+    "options": [
+      "Chỉ tạo nguồn thu cho xuất khẩu",
+      "Chỉ phục vụ tiêu dùng cá nhân",
+      "Thay thế vai trò của tiềm lực chính trị",
+      "Bảo đảm nguồn lực vật chất và khả năng huy động phục vụ nhiệm vụ quốc phòng, an ninh"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 77,
+    "chapter": 3,
+    "question": "Chọn nhận định đúng nhất: tiềm lực kinh tế tạo cơ sở chủ yếu nào cho quốc phòng, an ninh?",
+    "options": [
+      "Thay thế vai trò của tiềm lực chính trị",
+      "Chỉ phục vụ tiêu dùng cá nhân",
+      "Chỉ tạo nguồn thu cho xuất khẩu",
+      "Bảo đảm nguồn lực vật chất và khả năng huy động phục vụ nhiệm vụ quốc phòng, an ninh"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 78,
+    "chapter": 3,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: tiềm lực kinh tế tạo cơ sở chủ yếu nào cho quốc phòng, an ninh?",
+    "options": [
+      "Thay thế vai trò của tiềm lực chính trị",
+      "Chỉ tạo nguồn thu cho xuất khẩu",
+      "Chỉ phục vụ tiêu dùng cá nhân",
+      "Bảo đảm nguồn lực vật chất và khả năng huy động phục vụ nhiệm vụ quốc phòng, an ninh"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 79,
+    "chapter": 3,
+    "question": "Lực lượng nào giữ vai trò nòng cốt trong xây dựng nền quốc phòng toàn dân, an ninh nhân dân?",
+    "options": [
+      "Lực lượng vũ trang nhân dân",
+      "Các tổ chức thể thao",
+      "Các doanh nghiệp tư nhân",
+      "Các cơ sở thương mại"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 80,
+    "chapter": 3,
+    "question": "Chọn nhận định đúng nhất: lực lượng nào giữ vai trò nòng cốt trong xây dựng nền quốc phòng toàn dân, an ninh nhân dân?",
+    "options": [
+      "Các tổ chức thể thao",
+      "Lực lượng vũ trang nhân dân",
+      "Các cơ sở thương mại",
+      "Các doanh nghiệp tư nhân"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 81,
+    "chapter": 3,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: lực lượng nào giữ vai trò nòng cốt trong xây dựng nền quốc phòng toàn dân, an ninh nhân dân?",
+    "options": [
+      "Các tổ chức thể thao",
+      "Lực lượng vũ trang nhân dân",
+      "Các cơ sở thương mại",
+      "Các doanh nghiệp tư nhân"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 82,
+    "chapter": 3,
+    "question": "Hai nhiệm vụ chiến lược của cách mạng Việt Nam hiện nay là gì?",
+    "options": [
+      "Xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa",
+      "Phát triển du lịch và dịch vụ",
+      "Công nghiệp hóa và đô thị hóa",
+      "Hội nhập kinh tế và tư nhân hóa"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 83,
+    "chapter": 3,
+    "question": "Chọn nhận định đúng nhất: hai nhiệm vụ chiến lược của cách mạng Việt Nam hiện nay là gì?",
+    "options": [
+      "Xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa",
+      "Hội nhập kinh tế và tư nhân hóa",
+      "Công nghiệp hóa và đô thị hóa",
+      "Phát triển du lịch và dịch vụ"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 84,
+    "chapter": 3,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: hai nhiệm vụ chiến lược của cách mạng Việt Nam hiện nay là gì?",
+    "options": [
+      "Phát triển du lịch và dịch vụ",
+      "Hội nhập kinh tế và tư nhân hóa",
+      "Xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa",
+      "Công nghiệp hóa và đô thị hóa"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 85,
+    "chapter": 3,
+    "question": "Nguyên tắc lãnh đạo, quản lý trong hoạt động quốc phòng được xác định thế nào?",
+    "options": [
+      "Các tổ chức xã hội quyết định",
+      "Địa phương tự quản lý hoàn toàn",
+      "Đảng lãnh đạo, Nhà nước quản lý",
+      "Quân đội lãnh đạo, doanh nghiệp quản lý"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 86,
+    "chapter": 3,
+    "question": "Chọn nhận định đúng nhất: nguyên tắc lãnh đạo, quản lý trong hoạt động quốc phòng được xác định thế nào?",
+    "options": [
+      "Quân đội lãnh đạo, doanh nghiệp quản lý",
+      "Các tổ chức xã hội quyết định",
+      "Đảng lãnh đạo, Nhà nước quản lý",
+      "Địa phương tự quản lý hoàn toàn"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 87,
+    "chapter": 3,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: nguyên tắc lãnh đạo, quản lý trong hoạt động quốc phòng được xác định thế nào?",
+    "options": [
+      "Quân đội lãnh đạo, doanh nghiệp quản lý",
+      "Đảng lãnh đạo, Nhà nước quản lý",
+      "Địa phương tự quản lý hoàn toàn",
+      "Các tổ chức xã hội quyết định"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 88,
+    "chapter": 3,
+    "question": "Thế trận quốc phòng toàn dân là gì?",
+    "options": [
+      "Việc bố trí riêng các cơ sở kinh tế",
+      "Hoạt động diễn tập của một đơn vị",
+      "Sơ đồ giao thông đô thị",
+      "Sự tổ chức, bố trí lực lượng và tiềm lực trên phạm vi cả nước theo yêu cầu quốc phòng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 89,
+    "chapter": 3,
+    "question": "Chọn nhận định đúng nhất: thế trận quốc phòng toàn dân là gì?",
+    "options": [
+      "Hoạt động diễn tập của một đơn vị",
+      "Sơ đồ giao thông đô thị",
+      "Sự tổ chức, bố trí lực lượng và tiềm lực trên phạm vi cả nước theo yêu cầu quốc phòng",
+      "Việc bố trí riêng các cơ sở kinh tế"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 90,
+    "chapter": 3,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: thế trận quốc phòng toàn dân là gì?",
+    "options": [
+      "Sơ đồ giao thông đô thị",
+      "Sự tổ chức, bố trí lực lượng và tiềm lực trên phạm vi cả nước theo yêu cầu quốc phòng",
+      "Hoạt động diễn tập của một đơn vị",
+      "Việc bố trí riêng các cơ sở kinh tế"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 91,
+    "chapter": 3,
+    "question": "Đặc trưng bản chất của nền quốc phòng Việt Nam là gì?",
+    "options": [
+      "Nền quốc phòng chỉ phục vụ lợi ích nhóm",
+      "Nền quốc phòng toàn dân, mang tính chất tự vệ chính đáng",
+      "Nền quốc phòng phụ thuộc nước ngoài",
+      "Nền quốc phòng nhằm xâm lược"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 92,
+    "chapter": 3,
+    "question": "Chọn nhận định đúng nhất: đặc trưng bản chất của nền quốc phòng Việt Nam là gì?",
+    "options": [
+      "Nền quốc phòng chỉ phục vụ lợi ích nhóm",
+      "Nền quốc phòng phụ thuộc nước ngoài",
+      "Nền quốc phòng nhằm xâm lược",
+      "Nền quốc phòng toàn dân, mang tính chất tự vệ chính đáng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 93,
+    "chapter": 3,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: đặc trưng bản chất của nền quốc phòng Việt Nam là gì?",
+    "options": [
+      "Nền quốc phòng chỉ phục vụ lợi ích nhóm",
+      "Nền quốc phòng nhằm xâm lược",
+      "Nền quốc phòng toàn dân, mang tính chất tự vệ chính đáng",
+      "Nền quốc phòng phụ thuộc nước ngoài"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 94,
+    "chapter": 3,
+    "question": "Sức mạnh quốc phòng, an ninh được tạo thành từ đâu?",
+    "options": [
+      "Sự kết hợp nhiều yếu tố chính trị, kinh tế, văn hóa, xã hội, quân sự và đối ngoại",
+      "Chỉ từ yếu tố kinh tế",
+      "Chỉ từ yếu tố dân số",
+      "Chỉ từ yếu tố quân sự"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 95,
+    "chapter": 3,
+    "question": "Chọn nhận định đúng nhất: sức mạnh quốc phòng, an ninh được tạo thành từ đâu?",
+    "options": [
+      "Sự kết hợp nhiều yếu tố chính trị, kinh tế, văn hóa, xã hội, quân sự và đối ngoại",
+      "Chỉ từ yếu tố dân số",
+      "Chỉ từ yếu tố kinh tế",
+      "Chỉ từ yếu tố quân sự"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 96,
+    "chapter": 3,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: sức mạnh quốc phòng, an ninh được tạo thành từ đâu?",
+    "options": [
+      "Chỉ từ yếu tố kinh tế",
+      "Sự kết hợp nhiều yếu tố chính trị, kinh tế, văn hóa, xã hội, quân sự và đối ngoại",
+      "Chỉ từ yếu tố quân sự",
+      "Chỉ từ yếu tố dân số"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 97,
+    "chapter": 4,
+    "question": "Chiến tranh nhân dân bảo vệ Tổ quốc là cuộc chiến tranh có tính chất nào?",
+    "options": [
+      "Chỉ diễn ra trên một mặt trận",
+      "Chỉ nhằm mục tiêu kinh tế",
+      "Chỉ do quân đội thường trực tiến hành",
+      "Toàn dân, toàn diện, do nhân dân tiến hành để bảo vệ Tổ quốc"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 98,
+    "chapter": 4,
+    "question": "Chọn nhận định đúng nhất: chiến tranh nhân dân bảo vệ Tổ quốc là cuộc chiến tranh có tính chất nào?",
+    "options": [
+      "Chỉ do quân đội thường trực tiến hành",
+      "Chỉ nhằm mục tiêu kinh tế",
+      "Chỉ diễn ra trên một mặt trận",
+      "Toàn dân, toàn diện, do nhân dân tiến hành để bảo vệ Tổ quốc"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 99,
+    "chapter": 4,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: chiến tranh nhân dân bảo vệ Tổ quốc là cuộc chiến tranh có tính chất nào?",
+    "options": [
+      "Chỉ nhằm mục tiêu kinh tế",
+      "Chỉ do quân đội thường trực tiến hành",
+      "Toàn dân, toàn diện, do nhân dân tiến hành để bảo vệ Tổ quốc",
+      "Chỉ diễn ra trên một mặt trận"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 100,
+    "chapter": 4,
+    "question": "Một quan điểm quan trọng để duy trì sức mạnh lâu dài là gì?",
+    "options": [
+      "Tách rời quốc phòng khỏi đời sống",
+      "Dừng mọi hoạt động sản xuất",
+      "Chỉ tập trung vào một lĩnh vực",
+      "Kết hợp kháng chiến với xây dựng, vừa kháng chiến vừa xây dựng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 101,
+    "chapter": 4,
+    "question": "Chọn nhận định đúng nhất: một quan điểm quan trọng để duy trì sức mạnh lâu dài là gì?",
+    "options": [
+      "Chỉ tập trung vào một lĩnh vực",
+      "Dừng mọi hoạt động sản xuất",
+      "Kết hợp kháng chiến với xây dựng, vừa kháng chiến vừa xây dựng",
+      "Tách rời quốc phòng khỏi đời sống"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 102,
+    "chapter": 4,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: một quan điểm quan trọng để duy trì sức mạnh lâu dài là gì?",
+    "options": [
+      "Dừng mọi hoạt động sản xuất",
+      "Kết hợp kháng chiến với xây dựng, vừa kháng chiến vừa xây dựng",
+      "Chỉ tập trung vào một lĩnh vực",
+      "Tách rời quốc phòng khỏi đời sống"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 103,
+    "chapter": 4,
+    "question": "Trong chiến tranh nhân dân, sức mạnh được phát huy trên những mặt nào?",
+    "options": [
+      "Chỉ trên mặt trận quân sự",
+      "Quân sự, chính trị, kinh tế, văn hóa, tư tưởng và đối ngoại",
+      "Chỉ trên mặt trận kinh tế",
+      "Chỉ trên mặt trận ngoại giao"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 104,
+    "chapter": 4,
+    "question": "Chọn nhận định đúng nhất: trong chiến tranh nhân dân, sức mạnh được phát huy trên những mặt nào?",
+    "options": [
+      "Chỉ trên mặt trận ngoại giao",
+      "Quân sự, chính trị, kinh tế, văn hóa, tư tưởng và đối ngoại",
+      "Chỉ trên mặt trận kinh tế",
+      "Chỉ trên mặt trận quân sự"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 105,
+    "chapter": 4,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: trong chiến tranh nhân dân, sức mạnh được phát huy trên những mặt nào?",
+    "options": [
+      "Chỉ trên mặt trận quân sự",
+      "Chỉ trên mặt trận kinh tế",
+      "Chỉ trên mặt trận ngoại giao",
+      "Quân sự, chính trị, kinh tế, văn hóa, tư tưởng và đối ngoại"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 106,
+    "chapter": 4,
+    "question": "Đặc điểm nổi bật của chiến tranh nhân dân Việt Nam là gì?",
+    "options": [
+      "Không cần sự tham gia của nhân dân",
+      "Kết hợp đấu tranh quân sự với bảo vệ an ninh chính trị và trật tự, an toàn xã hội",
+      "Tách đấu tranh quân sự khỏi an ninh",
+      "Chỉ dựa vào viện trợ bên ngoài"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 107,
+    "chapter": 4,
+    "question": "Chọn nhận định đúng nhất: đặc điểm nổi bật của chiến tranh nhân dân Việt Nam là gì?",
+    "options": [
+      "Không cần sự tham gia của nhân dân",
+      "Tách đấu tranh quân sự khỏi an ninh",
+      "Kết hợp đấu tranh quân sự với bảo vệ an ninh chính trị và trật tự, an toàn xã hội",
+      "Chỉ dựa vào viện trợ bên ngoài"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 108,
+    "chapter": 4,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: đặc điểm nổi bật của chiến tranh nhân dân Việt Nam là gì?",
+    "options": [
+      "Chỉ dựa vào viện trợ bên ngoài",
+      "Kết hợp đấu tranh quân sự với bảo vệ an ninh chính trị và trật tự, an toàn xã hội",
+      "Tách đấu tranh quân sự khỏi an ninh",
+      "Không cần sự tham gia của nhân dân"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 109,
+    "chapter": 4,
+    "question": "Trong xây dựng lực lượng phục vụ chiến tranh nhân dân, nội dung nào cần được coi trọng?",
+    "options": [
+      "Không cần lực lượng tại chỗ",
+      "Chỉ tăng số lượng mà không cần chất lượng",
+      "Chỉ xây dựng lực lượng ở đô thị",
+      "Xây dựng lực lượng rộng khắp, có tổ chức và chất lượng phù hợp"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 110,
+    "chapter": 4,
+    "question": "Chọn nhận định đúng nhất: trong xây dựng lực lượng phục vụ chiến tranh nhân dân, nội dung nào cần được coi trọng?",
+    "options": [
+      "Chỉ tăng số lượng mà không cần chất lượng",
+      "Không cần lực lượng tại chỗ",
+      "Xây dựng lực lượng rộng khắp, có tổ chức và chất lượng phù hợp",
+      "Chỉ xây dựng lực lượng ở đô thị"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 111,
+    "chapter": 4,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: trong xây dựng lực lượng phục vụ chiến tranh nhân dân, nội dung nào cần được coi trọng?",
+    "options": [
+      "Không cần lực lượng tại chỗ",
+      "Chỉ tăng số lượng mà không cần chất lượng",
+      "Xây dựng lực lượng rộng khắp, có tổ chức và chất lượng phù hợp",
+      "Chỉ xây dựng lực lượng ở đô thị"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 112,
+    "chapter": 4,
+    "question": "Quan điểm kết hợp xây dựng với bảo vệ Tổ quốc thể hiện yêu cầu nào?",
+    "options": [
+      "Chủ động chuẩn bị tiềm lực và giữ vững ổn định trong thời bình",
+      "Không cần giáo dục quốc phòng",
+      "Ngừng phát triển kinh tế",
+      "Chỉ chuẩn bị khi có chiến tranh"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 113,
+    "chapter": 4,
+    "question": "Chọn nhận định đúng nhất: quan điểm kết hợp xây dựng với bảo vệ Tổ quốc thể hiện yêu cầu nào?",
+    "options": [
+      "Chỉ chuẩn bị khi có chiến tranh",
+      "Chủ động chuẩn bị tiềm lực và giữ vững ổn định trong thời bình",
+      "Ngừng phát triển kinh tế",
+      "Không cần giáo dục quốc phòng"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 114,
+    "chapter": 4,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: quan điểm kết hợp xây dựng với bảo vệ Tổ quốc thể hiện yêu cầu nào?",
+    "options": [
+      "Chỉ chuẩn bị khi có chiến tranh",
+      "Ngừng phát triển kinh tế",
+      "Không cần giáo dục quốc phòng",
+      "Chủ động chuẩn bị tiềm lực và giữ vững ổn định trong thời bình"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 115,
+    "chapter": 4,
+    "question": "Một khó khăn khách quan đối với lực lượng xâm lược khi tiến hành chiến tranh ở Việt Nam được nêu trong đề cương là gì?",
+    "options": [
+      "Không có dân cư sinh sống",
+      "Không có yếu tố địa lý",
+      "Địa hình hoàn toàn bằng phẳng",
+      "Điều kiện địa hình, thời tiết và môi trường phức tạp"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 116,
+    "chapter": 4,
+    "question": "Chọn nhận định đúng nhất: một khó khăn khách quan đối với lực lượng xâm lược khi tiến hành chiến tranh ở Việt Nam được nêu trong đề cương là gì?",
+    "options": [
+      "Địa hình hoàn toàn bằng phẳng",
+      "Không có dân cư sinh sống",
+      "Điều kiện địa hình, thời tiết và môi trường phức tạp",
+      "Không có yếu tố địa lý"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 117,
+    "chapter": 4,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: một khó khăn khách quan đối với lực lượng xâm lược khi tiến hành chiến tranh ở Việt Nam được nêu trong đề cương là gì?",
+    "options": [
+      "Không có yếu tố địa lý",
+      "Điều kiện địa hình, thời tiết và môi trường phức tạp",
+      "Địa hình hoàn toàn bằng phẳng",
+      "Không có dân cư sinh sống"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 118,
+    "chapter": 4,
+    "question": "Mục tiêu căn bản của chiến tranh nhân dân bảo vệ Tổ quốc là gì?",
+    "options": [
+      "Mở rộng lãnh thổ bằng vũ lực",
+      "Thay đổi biên giới quốc tế",
+      "Bảo vệ độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ",
+      "Chiếm giữ tài nguyên nước khác"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 119,
+    "chapter": 4,
+    "question": "Chọn nhận định đúng nhất: mục tiêu căn bản của chiến tranh nhân dân bảo vệ Tổ quốc là gì?",
+    "options": [
+      "Thay đổi biên giới quốc tế",
+      "Chiếm giữ tài nguyên nước khác",
+      "Mở rộng lãnh thổ bằng vũ lực",
+      "Bảo vệ độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 120,
+    "chapter": 4,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: mục tiêu căn bản của chiến tranh nhân dân bảo vệ Tổ quốc là gì?",
+    "options": [
+      "Thay đổi biên giới quốc tế",
+      "Chiếm giữ tài nguyên nước khác",
+      "Bảo vệ độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ",
+      "Mở rộng lãnh thổ bằng vũ lực"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 121,
+    "chapter": 4,
+    "question": "Trong chiến tranh nhân dân, nhân dân có vai trò như thế nào?",
+    "options": [
+      "Chỉ hỗ trợ hậu cần khi được yêu cầu",
+      "Là chủ thể, là nền tảng tạo nên sức mạnh tổng hợp",
+      "Không có vai trò chính trị",
+      "Chỉ đứng ngoài quan sát"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 122,
+    "chapter": 4,
+    "question": "Chọn nhận định đúng nhất: trong chiến tranh nhân dân, nhân dân có vai trò như thế nào?",
+    "options": [
+      "Là chủ thể, là nền tảng tạo nên sức mạnh tổng hợp",
+      "Không có vai trò chính trị",
+      "Chỉ hỗ trợ hậu cần khi được yêu cầu",
+      "Chỉ đứng ngoài quan sát"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 123,
+    "chapter": 4,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: trong chiến tranh nhân dân, nhân dân có vai trò như thế nào?",
+    "options": [
+      "Chỉ đứng ngoài quan sát",
+      "Là chủ thể, là nền tảng tạo nên sức mạnh tổng hợp",
+      "Chỉ hỗ trợ hậu cần khi được yêu cầu",
+      "Không có vai trò chính trị"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 124,
+    "chapter": 4,
+    "question": "Kết hợp quốc phòng với an ninh trong bảo vệ Tổ quốc nhằm mục đích gì?",
+    "options": [
+      "Chỉ bảo vệ hoạt động thương mại",
+      "Chỉ quản lý hoạt động văn hóa",
+      "Giữ vững ổn định chính trị, trật tự an toàn xã hội và chủ quyền quốc gia",
+      "Thay thế hoạt động ngoại giao"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 125,
+    "chapter": 4,
+    "question": "Chọn nhận định đúng nhất: kết hợp quốc phòng với an ninh trong bảo vệ Tổ quốc nhằm mục đích gì?",
+    "options": [
+      "Thay thế hoạt động ngoại giao",
+      "Chỉ bảo vệ hoạt động thương mại",
+      "Giữ vững ổn định chính trị, trật tự an toàn xã hội và chủ quyền quốc gia",
+      "Chỉ quản lý hoạt động văn hóa"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 126,
+    "chapter": 4,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: kết hợp quốc phòng với an ninh trong bảo vệ Tổ quốc nhằm mục đích gì?",
+    "options": [
+      "Thay thế hoạt động ngoại giao",
+      "Chỉ quản lý hoạt động văn hóa",
+      "Giữ vững ổn định chính trị, trật tự an toàn xã hội và chủ quyền quốc gia",
+      "Chỉ bảo vệ hoạt động thương mại"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 127,
+    "chapter": 5,
+    "question": "Lực lượng vũ trang nhân dân Việt Nam gồm những thành phần nào?",
+    "options": [
+      "Quân đội nhân dân và lực lượng thanh niên",
+      "Quân đội nhân dân, Công an nhân dân và Dân quân tự vệ",
+      "Quân đội nhân dân và lực lượng dự bị בלבד",
+      "Công an nhân dân và kiểm lâm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 128,
+    "chapter": 5,
+    "question": "Chọn nhận định đúng nhất: lực lượng vũ trang nhân dân Việt Nam gồm những thành phần nào?",
+    "options": [
+      "Quân đội nhân dân và lực lượng thanh niên",
+      "Công an nhân dân và kiểm lâm",
+      "Quân đội nhân dân, Công an nhân dân và Dân quân tự vệ",
+      "Quân đội nhân dân và lực lượng dự bị בלבד"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 129,
+    "chapter": 5,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: lực lượng vũ trang nhân dân Việt Nam gồm những thành phần nào?",
+    "options": [
+      "Quân đội nhân dân, Công an nhân dân và Dân quân tự vệ",
+      "Công an nhân dân và kiểm lâm",
+      "Quân đội nhân dân và lực lượng dự bị בלבד",
+      "Quân đội nhân dân và lực lượng thanh niên"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 130,
+    "chapter": 5,
+    "question": "Nguyên tắc cơ bản trong xây dựng lực lượng vũ trang nhân dân là gì?",
+    "options": [
+      "Ưu tiên số lượng hơn chất lượng",
+      "Chỉ dựa vào nguồn lực bên ngoài",
+      "Tách lực lượng vũ trang khỏi sự lãnh đạo chính trị",
+      "Giữ vững và tăng cường sự lãnh đạo của Đảng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 131,
+    "chapter": 5,
+    "question": "Chọn nhận định đúng nhất: nguyên tắc cơ bản trong xây dựng lực lượng vũ trang nhân dân là gì?",
+    "options": [
+      "Giữ vững và tăng cường sự lãnh đạo của Đảng",
+      "Tách lực lượng vũ trang khỏi sự lãnh đạo chính trị",
+      "Chỉ dựa vào nguồn lực bên ngoài",
+      "Ưu tiên số lượng hơn chất lượng"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 132,
+    "chapter": 5,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: nguyên tắc cơ bản trong xây dựng lực lượng vũ trang nhân dân là gì?",
+    "options": [
+      "Chỉ dựa vào nguồn lực bên ngoài",
+      "Tách lực lượng vũ trang khỏi sự lãnh đạo chính trị",
+      "Ưu tiên số lượng hơn chất lượng",
+      "Giữ vững và tăng cường sự lãnh đạo của Đảng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 133,
+    "chapter": 5,
+    "question": "Quân đội nhân dân Việt Nam được xây dựng theo phương hướng nào?",
+    "options": [
+      "Cách mạng, chính quy, tinh nhuệ, từng bước hiện đại",
+      "Chỉ chú trọng số lượng",
+      "Tự phát, không tổ chức",
+      "Chỉ hiện đại về trang bị"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 134,
+    "chapter": 5,
+    "question": "Chọn nhận định đúng nhất: quân đội nhân dân Việt Nam được xây dựng theo phương hướng nào?",
+    "options": [
+      "Tự phát, không tổ chức",
+      "Chỉ hiện đại về trang bị",
+      "Chỉ chú trọng số lượng",
+      "Cách mạng, chính quy, tinh nhuệ, từng bước hiện đại"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 135,
+    "chapter": 5,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: quân đội nhân dân Việt Nam được xây dựng theo phương hướng nào?",
+    "options": [
+      "Cách mạng, chính quy, tinh nhuệ, từng bước hiện đại",
+      "Chỉ hiện đại về trang bị",
+      "Chỉ chú trọng số lượng",
+      "Tự phát, không tổ chức"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 136,
+    "chapter": 5,
+    "question": "Công an nhân dân là lực lượng nòng cốt trong nhiệm vụ nào?",
+    "options": [
+      "Quản lý hoạt động sản xuất nông nghiệp",
+      "Bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội",
+      "Điều hành hoạt động giáo dục đại học",
+      "Quản lý hoạt động xuất nhập khẩu"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 137,
+    "chapter": 5,
+    "question": "Chọn nhận định đúng nhất: công an nhân dân là lực lượng nòng cốt trong nhiệm vụ nào?",
+    "options": [
+      "Quản lý hoạt động sản xuất nông nghiệp",
+      "Bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội",
+      "Điều hành hoạt động giáo dục đại học",
+      "Quản lý hoạt động xuất nhập khẩu"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 138,
+    "chapter": 5,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: công an nhân dân là lực lượng nòng cốt trong nhiệm vụ nào?",
+    "options": [
+      "Quản lý hoạt động xuất nhập khẩu",
+      "Quản lý hoạt động sản xuất nông nghiệp",
+      "Bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội",
+      "Điều hành hoạt động giáo dục đại học"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 139,
+    "chapter": 5,
+    "question": "Dân quân tự vệ được xác định là lực lượng như thế nào?",
+    "options": [
+      "Lực lượng chuyên nghiệp hoạt động toàn thời gian",
+      "Lực lượng chỉ gồm quân nhân xuất ngũ",
+      "Lực lượng tư nhân có vũ trang",
+      "Lực lượng vũ trang quần chúng, không thoát ly sản xuất và công tác"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 140,
+    "chapter": 5,
+    "question": "Chọn nhận định đúng nhất: dân quân tự vệ được xác định là lực lượng như thế nào?",
+    "options": [
+      "Lực lượng chỉ gồm quân nhân xuất ngũ",
+      "Lực lượng vũ trang quần chúng, không thoát ly sản xuất và công tác",
+      "Lực lượng chuyên nghiệp hoạt động toàn thời gian",
+      "Lực lượng tư nhân có vũ trang"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 141,
+    "chapter": 5,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: dân quân tự vệ được xác định là lực lượng như thế nào?",
+    "options": [
+      "Lực lượng vũ trang quần chúng, không thoát ly sản xuất và công tác",
+      "Lực lượng chuyên nghiệp hoạt động toàn thời gian",
+      "Lực lượng chỉ gồm quân nhân xuất ngũ",
+      "Lực lượng tư nhân có vũ trang"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 142,
+    "chapter": 5,
+    "question": "Phương hướng xây dựng Dân quân tự vệ là gì?",
+    "options": [
+      "Không cần tổ chức ở cơ sở",
+      "Tập trung ở một số thành phố lớn",
+      "Chỉ chú trọng số lượng",
+      "Vững mạnh, rộng khắp, coi trọng chất lượng là chính"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 143,
+    "chapter": 5,
+    "question": "Chọn nhận định đúng nhất: phương hướng xây dựng Dân quân tự vệ là gì?",
+    "options": [
+      "Vững mạnh, rộng khắp, coi trọng chất lượng là chính",
+      "Tập trung ở một số thành phố lớn",
+      "Không cần tổ chức ở cơ sở",
+      "Chỉ chú trọng số lượng"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 144,
+    "chapter": 5,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: phương hướng xây dựng Dân quân tự vệ là gì?",
+    "options": [
+      "Vững mạnh, rộng khắp, coi trọng chất lượng là chính",
+      "Không cần tổ chức ở cơ sở",
+      "Tập trung ở một số thành phố lớn",
+      "Chỉ chú trọng số lượng"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 145,
+    "chapter": 5,
+    "question": "Lực lượng dự bị động viên gồm những thành phần cơ bản nào?",
+    "options": [
+      "Chỉ gồm phương tiện giao thông dân dụng",
+      "Chỉ gồm công chức nhà nước",
+      "Quân nhân dự bị và phương tiện kỹ thuật dự bị",
+      "Chỉ gồm sinh viên"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 146,
+    "chapter": 5,
+    "question": "Chọn nhận định đúng nhất: lực lượng dự bị động viên gồm những thành phần cơ bản nào?",
+    "options": [
+      "Chỉ gồm sinh viên",
+      "Quân nhân dự bị và phương tiện kỹ thuật dự bị",
+      "Chỉ gồm phương tiện giao thông dân dụng",
+      "Chỉ gồm công chức nhà nước"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 147,
+    "chapter": 5,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: lực lượng dự bị động viên gồm những thành phần cơ bản nào?",
+    "options": [
+      "Chỉ gồm công chức nhà nước",
+      "Quân nhân dự bị và phương tiện kỹ thuật dự bị",
+      "Chỉ gồm sinh viên",
+      "Chỉ gồm phương tiện giao thông dân dụng"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 148,
+    "chapter": 5,
+    "question": "Xây dựng lực lượng dự bị động viên nhằm đáp ứng yêu cầu nào?",
+    "options": [
+      "Thực hiện nhiệm vụ dân sự thường xuyên",
+      "Sẵn sàng bổ sung cho lực lượng thường trực khi có yêu cầu",
+      "Thay thế toàn bộ lực lượng công an",
+      "Phục vụ hoạt động kinh doanh"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 149,
+    "chapter": 5,
+    "question": "Chọn nhận định đúng nhất: xây dựng lực lượng dự bị động viên nhằm đáp ứng yêu cầu nào?",
+    "options": [
+      "Sẵn sàng bổ sung cho lực lượng thường trực khi có yêu cầu",
+      "Thay thế toàn bộ lực lượng công an",
+      "Phục vụ hoạt động kinh doanh",
+      "Thực hiện nhiệm vụ dân sự thường xuyên"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 150,
+    "chapter": 5,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: xây dựng lực lượng dự bị động viên nhằm đáp ứng yêu cầu nào?",
+    "options": [
+      "Sẵn sàng bổ sung cho lực lượng thường trực khi có yêu cầu",
+      "Phục vụ hoạt động kinh doanh",
+      "Thay thế toàn bộ lực lượng công an",
+      "Thực hiện nhiệm vụ dân sự thường xuyên"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 151,
+    "chapter": 5,
+    "question": "Quân đội nhân dân Việt Nam có ba chức năng cơ bản nào?",
+    "options": [
+      "Chiến đấu, công tác và lao động sản xuất",
+      "Ngoại giao, lập pháp và hành pháp",
+      "Giáo dục, y tế và thương mại",
+      "Quản lý, kinh doanh và xét xử"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 152,
+    "chapter": 5,
+    "question": "Chọn nhận định đúng nhất: quân đội nhân dân Việt Nam có ba chức năng cơ bản nào?",
+    "options": [
+      "Ngoại giao, lập pháp và hành pháp",
+      "Chiến đấu, công tác và lao động sản xuất",
+      "Giáo dục, y tế và thương mại",
+      "Quản lý, kinh doanh và xét xử"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 153,
+    "chapter": 5,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: quân đội nhân dân Việt Nam có ba chức năng cơ bản nào?",
+    "options": [
+      "Chiến đấu, công tác và lao động sản xuất",
+      "Quản lý, kinh doanh và xét xử",
+      "Ngoại giao, lập pháp và hành pháp",
+      "Giáo dục, y tế và thương mại"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 154,
+    "chapter": 5,
+    "question": "Xây dựng quân đội chính quy hướng tới mục tiêu nào?",
+    "options": [
+      "Không cần điều lệnh",
+      "Tự do thay đổi tổ chức tùy ý",
+      "Chỉ tập trung vào trang phục",
+      "Thống nhất về tổ chức, biên chế, kỷ luật và nền nếp"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 155,
+    "chapter": 5,
+    "question": "Chọn nhận định đúng nhất: xây dựng quân đội chính quy hướng tới mục tiêu nào?",
+    "options": [
+      "Chỉ tập trung vào trang phục",
+      "Không cần điều lệnh",
+      "Thống nhất về tổ chức, biên chế, kỷ luật và nền nếp",
+      "Tự do thay đổi tổ chức tùy ý"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 156,
+    "chapter": 5,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: xây dựng quân đội chính quy hướng tới mục tiêu nào?",
+    "options": [
+      "Tự do thay đổi tổ chức tùy ý",
+      "Không cần điều lệnh",
+      "Chỉ tập trung vào trang phục",
+      "Thống nhất về tổ chức, biên chế, kỷ luật và nền nếp"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 157,
+    "chapter": 5,
+    "question": "Xây dựng quân đội tinh nhuệ nhấn mạnh yếu tố nào?",
+    "options": [
+      "Chỉ tăng quân số",
+      "Chất lượng tổng hợp và trình độ sẵn sàng thực hiện nhiệm vụ",
+      "Chỉ tăng số cơ sở đóng quân",
+      "Chỉ thay đổi biểu tượng"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 158,
+    "chapter": 5,
+    "question": "Chọn nhận định đúng nhất: xây dựng quân đội tinh nhuệ nhấn mạnh yếu tố nào?",
+    "options": [
+      "Chỉ tăng số cơ sở đóng quân",
+      "Chất lượng tổng hợp và trình độ sẵn sàng thực hiện nhiệm vụ",
+      "Chỉ tăng quân số",
+      "Chỉ thay đổi biểu tượng"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 159,
+    "chapter": 5,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: xây dựng quân đội tinh nhuệ nhấn mạnh yếu tố nào?",
+    "options": [
+      "Chất lượng tổng hợp và trình độ sẵn sàng thực hiện nhiệm vụ",
+      "Chỉ tăng số cơ sở đóng quân",
+      "Chỉ tăng quân số",
+      "Chỉ thay đổi biểu tượng"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 160,
+    "chapter": 5,
+    "question": "Nguyên tắc hoạt động của lực lượng vũ trang nhân dân được xác định như thế nào?",
+    "options": [
+      "Không chịu sự quản lý nhà nước",
+      "Chỉ chịu sự quản lý của doanh nghiệp",
+      "Đặt dưới sự lãnh đạo của Đảng và sự quản lý thống nhất của Nhà nước",
+      "Tự đặt ra pháp luật riêng"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 161,
+    "chapter": 5,
+    "question": "Chọn nhận định đúng nhất: nguyên tắc hoạt động của lực lượng vũ trang nhân dân được xác định như thế nào?",
+    "options": [
+      "Chỉ chịu sự quản lý của doanh nghiệp",
+      "Không chịu sự quản lý nhà nước",
+      "Tự đặt ra pháp luật riêng",
+      "Đặt dưới sự lãnh đạo của Đảng và sự quản lý thống nhất của Nhà nước"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 162,
+    "chapter": 5,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: nguyên tắc hoạt động của lực lượng vũ trang nhân dân được xác định như thế nào?",
+    "options": [
+      "Đặt dưới sự lãnh đạo của Đảng và sự quản lý thống nhất của Nhà nước",
+      "Không chịu sự quản lý nhà nước",
+      "Chỉ chịu sự quản lý của doanh nghiệp",
+      "Tự đặt ra pháp luật riêng"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 163,
+    "chapter": 6,
+    "question": "Kết hợp phát triển kinh tế – xã hội với tăng cường quốc phòng, an ninh nhằm mục đích gì?",
+    "options": [
+      "Ưu tiên một lĩnh vực, bỏ qua lĩnh vực còn lại",
+      "Tách rời phát triển kinh tế khỏi an ninh",
+      "Chỉ phục vụ tăng trưởng ngắn hạn",
+      "Tạo sức mạnh tổng hợp để phát triển đất nước và bảo vệ Tổ quốc"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 164,
+    "chapter": 6,
+    "question": "Chọn nhận định đúng nhất: kết hợp phát triển kinh tế – xã hội với tăng cường quốc phòng, an ninh nhằm mục đích gì?",
+    "options": [
+      "Chỉ phục vụ tăng trưởng ngắn hạn",
+      "Tách rời phát triển kinh tế khỏi an ninh",
+      "Ưu tiên một lĩnh vực, bỏ qua lĩnh vực còn lại",
+      "Tạo sức mạnh tổng hợp để phát triển đất nước và bảo vệ Tổ quốc"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 165,
+    "chapter": 6,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: kết hợp phát triển kinh tế – xã hội với tăng cường quốc phòng, an ninh nhằm mục đích gì?",
+    "options": [
+      "Tạo sức mạnh tổng hợp để phát triển đất nước và bảo vệ Tổ quốc",
+      "Ưu tiên một lĩnh vực, bỏ qua lĩnh vực còn lại",
+      "Chỉ phục vụ tăng trưởng ngắn hạn",
+      "Tách rời phát triển kinh tế khỏi an ninh"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 166,
+    "chapter": 6,
+    "question": "Chủ thể quản lý nhà nước trong việc kết hợp kinh tế với quốc phòng, an ninh là ai?",
+    "options": [
+      "Nhà nước",
+      "Doanh nghiệp tư nhân",
+      "Tổ chức xã hội tự phát",
+      "Cá nhân riêng lẻ"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 167,
+    "chapter": 6,
+    "question": "Chọn nhận định đúng nhất: chủ thể quản lý nhà nước trong việc kết hợp kinh tế với quốc phòng, an ninh là ai?",
+    "options": [
+      "Tổ chức xã hội tự phát",
+      "Doanh nghiệp tư nhân",
+      "Nhà nước",
+      "Cá nhân riêng lẻ"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 168,
+    "chapter": 6,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: chủ thể quản lý nhà nước trong việc kết hợp kinh tế với quốc phòng, an ninh là ai?",
+    "options": [
+      "Tổ chức xã hội tự phát",
+      "Nhà nước",
+      "Doanh nghiệp tư nhân",
+      "Cá nhân riêng lẻ"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 169,
+    "chapter": 6,
+    "question": "Yếu tố nào cần được tính đến khi xây dựng chiến lược phát triển kinh tế – xã hội?",
+    "options": [
+      "Yêu cầu quốc phòng, an ninh và đặc điểm từng vùng, địa bàn",
+      "Chỉ lợi nhuận trước mắt",
+      "Chỉ xu hướng thời trang",
+      "Chỉ nhu cầu tiêu dùng cá nhân"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 170,
+    "chapter": 6,
+    "question": "Chọn nhận định đúng nhất: yếu tố nào cần được tính đến khi xây dựng chiến lược phát triển kinh tế – xã hội?",
+    "options": [
+      "Yêu cầu quốc phòng, an ninh và đặc điểm từng vùng, địa bàn",
+      "Chỉ nhu cầu tiêu dùng cá nhân",
+      "Chỉ xu hướng thời trang",
+      "Chỉ lợi nhuận trước mắt"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 171,
+    "chapter": 6,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: yếu tố nào cần được tính đến khi xây dựng chiến lược phát triển kinh tế – xã hội?",
+    "options": [
+      "Chỉ xu hướng thời trang",
+      "Chỉ lợi nhuận trước mắt",
+      "Chỉ nhu cầu tiêu dùng cá nhân",
+      "Yêu cầu quốc phòng, an ninh và đặc điểm từng vùng, địa bàn"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 172,
+    "chapter": 6,
+    "question": "Việc kết hợp kinh tế với quốc phòng, an ninh ở Việt Nam có truyền thống từ khi nào?",
+    "options": [
+      "Từ thời kỳ dựng nước và giữ nước",
+      "Chỉ từ thời kỳ đổi mới",
+      "Chỉ từ khi thành lập ASEAN",
+      "Chỉ từ sau năm 2000"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 173,
+    "chapter": 6,
+    "question": "Chọn nhận định đúng nhất: việc kết hợp kinh tế với quốc phòng, an ninh ở Việt Nam có truyền thống từ khi nào?",
+    "options": [
+      "Chỉ từ sau năm 2000",
+      "Từ thời kỳ dựng nước và giữ nước",
+      "Chỉ từ khi thành lập ASEAN",
+      "Chỉ từ thời kỳ đổi mới"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 174,
+    "chapter": 6,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: việc kết hợp kinh tế với quốc phòng, an ninh ở Việt Nam có truyền thống từ khi nào?",
+    "options": [
+      "Chỉ từ khi thành lập ASEAN",
+      "Chỉ từ thời kỳ đổi mới",
+      "Từ thời kỳ dựng nước và giữ nước",
+      "Chỉ từ sau năm 2000"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 175,
+    "chapter": 6,
+    "question": "Trong hoạt động đối ngoại, nguyên tắc phù hợp là gì?",
+    "options": [
+      "Áp đặt và can thiệp công việc nội bộ",
+      "Bình đẳng, hợp tác cùng có lợi và giải quyết tranh chấp bằng biện pháp hòa bình",
+      "Ưu tiên đối đầu",
+      "Không tôn trọng chủ quyền quốc gia"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 176,
+    "chapter": 6,
+    "question": "Chọn nhận định đúng nhất: trong hoạt động đối ngoại, nguyên tắc phù hợp là gì?",
+    "options": [
+      "Ưu tiên đối đầu",
+      "Không tôn trọng chủ quyền quốc gia",
+      "Bình đẳng, hợp tác cùng có lợi và giải quyết tranh chấp bằng biện pháp hòa bình",
+      "Áp đặt và can thiệp công việc nội bộ"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 177,
+    "chapter": 6,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: trong hoạt động đối ngoại, nguyên tắc phù hợp là gì?",
+    "options": [
+      "Bình đẳng, hợp tác cùng có lợi và giải quyết tranh chấp bằng biện pháp hòa bình",
+      "Ưu tiên đối đầu",
+      "Áp đặt và can thiệp công việc nội bộ",
+      "Không tôn trọng chủ quyền quốc gia"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 178,
+    "chapter": 6,
+    "question": "Kết hợp kinh tế với quốc phòng, an ninh trong quy hoạch vùng cần chú ý điều gì?",
+    "options": [
+      "Chỉ chọn nơi có lợi nhuận cao",
+      "Bỏ qua khu vực biên giới, biển đảo",
+      "Đặc điểm địa lý, dân cư, kinh tế và yêu cầu quốc phòng, an ninh",
+      "Chỉ căn cứ vào mật độ dân số"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 179,
+    "chapter": 6,
+    "question": "Chọn nhận định đúng nhất: kết hợp kinh tế với quốc phòng, an ninh trong quy hoạch vùng cần chú ý điều gì?",
+    "options": [
+      "Bỏ qua khu vực biên giới, biển đảo",
+      "Đặc điểm địa lý, dân cư, kinh tế và yêu cầu quốc phòng, an ninh",
+      "Chỉ chọn nơi có lợi nhuận cao",
+      "Chỉ căn cứ vào mật độ dân số"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 180,
+    "chapter": 6,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: kết hợp kinh tế với quốc phòng, an ninh trong quy hoạch vùng cần chú ý điều gì?",
+    "options": [
+      "Bỏ qua khu vực biên giới, biển đảo",
+      "Đặc điểm địa lý, dân cư, kinh tế và yêu cầu quốc phòng, an ninh",
+      "Chỉ chọn nơi có lợi nhuận cao",
+      "Chỉ căn cứ vào mật độ dân số"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 181,
+    "chapter": 6,
+    "question": "Giải pháp quan trọng để thực hiện tốt việc kết hợp kinh tế với quốc phòng, an ninh là gì?",
+    "options": [
+      "Tăng cường sự lãnh đạo của Đảng và hiệu lực quản lý của Nhà nước",
+      "Chỉ giao cho doanh nghiệp quyết định",
+      "Giảm vai trò quản lý nhà nước",
+      "Tách kế hoạch kinh tế khỏi quốc phòng"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 182,
+    "chapter": 6,
+    "question": "Chọn nhận định đúng nhất: giải pháp quan trọng để thực hiện tốt việc kết hợp kinh tế với quốc phòng, an ninh là gì?",
+    "options": [
+      "Giảm vai trò quản lý nhà nước",
+      "Tăng cường sự lãnh đạo của Đảng và hiệu lực quản lý của Nhà nước",
+      "Tách kế hoạch kinh tế khỏi quốc phòng",
+      "Chỉ giao cho doanh nghiệp quyết định"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 183,
+    "chapter": 6,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: giải pháp quan trọng để thực hiện tốt việc kết hợp kinh tế với quốc phòng, an ninh là gì?",
+    "options": [
+      "Tách kế hoạch kinh tế khỏi quốc phòng",
+      "Giảm vai trò quản lý nhà nước",
+      "Tăng cường sự lãnh đạo của Đảng và hiệu lực quản lý của Nhà nước",
+      "Chỉ giao cho doanh nghiệp quyết định"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 184,
+    "chapter": 6,
+    "question": "Một dự án hạ tầng ở địa bàn chiến lược cần được xem xét trên cơ sở nào?",
+    "options": [
+      "Chỉ xét tiến độ thi công",
+      "Hiệu quả kinh tế đồng thời với yêu cầu quốc phòng, an ninh",
+      "Chỉ xét chi phí xây dựng",
+      "Chỉ xét khả năng quảng bá"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 185,
+    "chapter": 6,
+    "question": "Chọn nhận định đúng nhất: một dự án hạ tầng ở địa bàn chiến lược cần được xem xét trên cơ sở nào?",
+    "options": [
+      "Hiệu quả kinh tế đồng thời với yêu cầu quốc phòng, an ninh",
+      "Chỉ xét tiến độ thi công",
+      "Chỉ xét chi phí xây dựng",
+      "Chỉ xét khả năng quảng bá"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 186,
+    "chapter": 6,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: một dự án hạ tầng ở địa bàn chiến lược cần được xem xét trên cơ sở nào?",
+    "options": [
+      "Chỉ xét tiến độ thi công",
+      "Hiệu quả kinh tế đồng thời với yêu cầu quốc phòng, an ninh",
+      "Chỉ xét khả năng quảng bá",
+      "Chỉ xét chi phí xây dựng"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 187,
+    "chapter": 6,
+    "question": "Hội nhập quốc tế cần gắn với yêu cầu nào?",
+    "options": [
+      "Không cần bảo vệ lợi ích quốc gia",
+      "Phụ thuộc hoàn toàn vào một đối tác",
+      "Từ bỏ quyền tự chủ",
+      "Giữ vững độc lập, chủ quyền và lợi ích quốc gia – dân tộc"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 188,
+    "chapter": 6,
+    "question": "Chọn nhận định đúng nhất: hội nhập quốc tế cần gắn với yêu cầu nào?",
+    "options": [
+      "Phụ thuộc hoàn toàn vào một đối tác",
+      "Từ bỏ quyền tự chủ",
+      "Không cần bảo vệ lợi ích quốc gia",
+      "Giữ vững độc lập, chủ quyền và lợi ích quốc gia – dân tộc"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 189,
+    "chapter": 6,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: hội nhập quốc tế cần gắn với yêu cầu nào?",
+    "options": [
+      "Không cần bảo vệ lợi ích quốc gia",
+      "Giữ vững độc lập, chủ quyền và lợi ích quốc gia – dân tộc",
+      "Phụ thuộc hoàn toàn vào một đối tác",
+      "Từ bỏ quyền tự chủ"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 190,
+    "chapter": 7,
+    "question": "Quốc hiệu đầu tiên của nước ta theo truyền thống lịch sử là gì?",
+    "options": [
+      "Đại Việt",
+      "Đại Cồ Việt",
+      "Âu Lạc",
+      "Văn Lang"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 191,
+    "chapter": 7,
+    "question": "Chọn nhận định đúng nhất: quốc hiệu đầu tiên của nước ta theo truyền thống lịch sử là gì?",
+    "options": [
+      "Đại Việt",
+      "Âu Lạc",
+      "Văn Lang",
+      "Đại Cồ Việt"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 192,
+    "chapter": 7,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: quốc hiệu đầu tiên của nước ta theo truyền thống lịch sử là gì?",
+    "options": [
+      "Văn Lang",
+      "Đại Việt",
+      "Âu Lạc",
+      "Đại Cồ Việt"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 193,
+    "chapter": 7,
+    "question": "Chiến thắng Bạch Đằng năm 938 gắn với vị anh hùng nào?",
+    "options": [
+      "Ngô Quyền",
+      "Quang Trung",
+      "Trần Hưng Đạo",
+      "Lý Thường Kiệt"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 194,
+    "chapter": 7,
+    "question": "Chọn nhận định đúng nhất: chiến thắng Bạch Đằng năm 938 gắn với vị anh hùng nào?",
+    "options": [
+      "Lý Thường Kiệt",
+      "Quang Trung",
+      "Trần Hưng Đạo",
+      "Ngô Quyền"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 195,
+    "chapter": 7,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: chiến thắng Bạch Đằng năm 938 gắn với vị anh hùng nào?",
+    "options": [
+      "Lý Thường Kiệt",
+      "Quang Trung",
+      "Trần Hưng Đạo",
+      "Ngô Quyền"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 196,
+    "chapter": 7,
+    "question": "Ai gắn với chủ trương chủ động tiến công trước để tự vệ trong cuộc kháng chiến chống Tống thế kỷ XI?",
+    "options": [
+      "Ngô Quyền",
+      "Lê Lợi",
+      "Trần Quốc Tuấn",
+      "Lý Thường Kiệt"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 197,
+    "chapter": 7,
+    "question": "Chọn nhận định đúng nhất: ai gắn với chủ trương chủ động tiến công trước để tự vệ trong cuộc kháng chiến chống Tống thế kỷ XI?",
+    "options": [
+      "Ngô Quyền",
+      "Trần Quốc Tuấn",
+      "Lê Lợi",
+      "Lý Thường Kiệt"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 198,
+    "chapter": 7,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: ai gắn với chủ trương chủ động tiến công trước để tự vệ trong cuộc kháng chiến chống Tống thế kỷ XI?",
+    "options": [
+      "Ngô Quyền",
+      "Lê Lợi",
+      "Trần Quốc Tuấn",
+      "Lý Thường Kiệt"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 199,
+    "chapter": 7,
+    "question": "Hội nghị Diên Hồng được tổ chức dưới triều đại nào?",
+    "options": [
+      "Nhà Lê sơ",
+      "Nhà Nguyễn",
+      "Nhà Trần",
+      "Nhà Lý"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 200,
+    "chapter": 7,
+    "question": "Chọn nhận định đúng nhất: hội nghị Diên Hồng được tổ chức dưới triều đại nào?",
+    "options": [
+      "Nhà Lý",
+      "Nhà Nguyễn",
+      "Nhà Lê sơ",
+      "Nhà Trần"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 201,
+    "chapter": 7,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: hội nghị Diên Hồng được tổ chức dưới triều đại nào?",
+    "options": [
+      "Nhà Trần",
+      "Nhà Lý",
+      "Nhà Lê sơ",
+      "Nhà Nguyễn"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 202,
+    "chapter": 7,
+    "question": "Chiến thắng Rạch Gầm – Xoài Mút gắn với vị lãnh tụ nào?",
+    "options": [
+      "Lê Lợi",
+      "Ngô Quyền",
+      "Nguyễn Huệ",
+      "Trần Hưng Đạo"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 203,
+    "chapter": 7,
+    "question": "Chọn nhận định đúng nhất: chiến thắng Rạch Gầm – Xoài Mút gắn với vị lãnh tụ nào?",
+    "options": [
+      "Trần Hưng Đạo",
+      "Nguyễn Huệ",
+      "Ngô Quyền",
+      "Lê Lợi"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 204,
+    "chapter": 7,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: chiến thắng Rạch Gầm – Xoài Mút gắn với vị lãnh tụ nào?",
+    "options": [
+      "Ngô Quyền",
+      "Trần Hưng Đạo",
+      "Lê Lợi",
+      "Nguyễn Huệ"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 205,
+    "chapter": 7,
+    "question": "Chiến thắng nào chấm dứt hơn một nghìn năm Bắc thuộc, mở ra thời kỳ độc lập tự chủ lâu dài?",
+    "options": [
+      "Chiến thắng Chi Lăng năm 1427",
+      "Chiến thắng Bạch Đằng năm 938",
+      "Chiến thắng Ngọc Hồi – Đống Đa năm 1789",
+      "Chiến thắng Điện Biên Phủ năm 1954"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 206,
+    "chapter": 7,
+    "question": "Chọn nhận định đúng nhất: chiến thắng nào chấm dứt hơn một nghìn năm Bắc thuộc, mở ra thời kỳ độc lập tự chủ lâu dài?",
+    "options": [
+      "Chiến thắng Chi Lăng năm 1427",
+      "Chiến thắng Điện Biên Phủ năm 1954",
+      "Chiến thắng Ngọc Hồi – Đống Đa năm 1789",
+      "Chiến thắng Bạch Đằng năm 938"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 207,
+    "chapter": 7,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: chiến thắng nào chấm dứt hơn một nghìn năm Bắc thuộc, mở ra thời kỳ độc lập tự chủ lâu dài?",
+    "options": [
+      "Chiến thắng Điện Biên Phủ năm 1954",
+      "Chiến thắng Chi Lăng năm 1427",
+      "Chiến thắng Ngọc Hồi – Đống Đa năm 1789",
+      "Chiến thắng Bạch Đằng năm 938"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 208,
+    "chapter": 7,
+    "question": "Nét đặc sắc xuyên suốt trong nghệ thuật quân sự Việt Nam là gì?",
+    "options": [
+      "Chỉ dựa vào lực lượng bên ngoài",
+      "Tách lực lượng vũ trang khỏi nhân dân",
+      "Chỉ dựa vào ưu thế trang bị",
+      "Nghệ thuật chiến tranh nhân dân, toàn dân đánh giặc"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 209,
+    "chapter": 7,
+    "question": "Chọn nhận định đúng nhất: nét đặc sắc xuyên suốt trong nghệ thuật quân sự Việt Nam là gì?",
+    "options": [
+      "Nghệ thuật chiến tranh nhân dân, toàn dân đánh giặc",
+      "Chỉ dựa vào lực lượng bên ngoài",
+      "Tách lực lượng vũ trang khỏi nhân dân",
+      "Chỉ dựa vào ưu thế trang bị"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 210,
+    "chapter": 7,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: nét đặc sắc xuyên suốt trong nghệ thuật quân sự Việt Nam là gì?",
+    "options": [
+      "Tách lực lượng vũ trang khỏi nhân dân",
+      "Chỉ dựa vào lực lượng bên ngoài",
+      "Nghệ thuật chiến tranh nhân dân, toàn dân đánh giặc",
+      "Chỉ dựa vào ưu thế trang bị"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 211,
+    "chapter": 7,
+    "question": "Yếu tố nào tác động đến sự hình thành nghệ thuật quân sự Việt Nam?",
+    "options": [
+      "Chỉ yếu tố thương mại",
+      "Chỉ yếu tố dân số",
+      "Chỉ yếu tố khí hậu",
+      "Điều kiện địa lý, lịch sử, chính trị và văn hóa – xã hội"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 212,
+    "chapter": 7,
+    "question": "Chọn nhận định đúng nhất: yếu tố nào tác động đến sự hình thành nghệ thuật quân sự Việt Nam?",
+    "options": [
+      "Chỉ yếu tố thương mại",
+      "Chỉ yếu tố dân số",
+      "Chỉ yếu tố khí hậu",
+      "Điều kiện địa lý, lịch sử, chính trị và văn hóa – xã hội"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 213,
+    "chapter": 7,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: yếu tố nào tác động đến sự hình thành nghệ thuật quân sự Việt Nam?",
+    "options": [
+      "Chỉ yếu tố khí hậu",
+      "Điều kiện địa lý, lịch sử, chính trị và văn hóa – xã hội",
+      "Chỉ yếu tố dân số",
+      "Chỉ yếu tố thương mại"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 214,
+    "chapter": 7,
+    "question": "Chiến dịch nào kết thúc thắng lợi cuộc kháng chiến chống thực dân Pháp năm 1954?",
+    "options": [
+      "Chiến dịch Tây Nguyên",
+      "Chiến dịch Hồ Chí Minh",
+      "Chiến dịch Điện Biên Phủ",
+      "Chiến dịch Đường 9 – Nam Lào"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 215,
+    "chapter": 7,
+    "question": "Chọn nhận định đúng nhất: chiến dịch nào kết thúc thắng lợi cuộc kháng chiến chống thực dân Pháp năm 1954?",
+    "options": [
+      "Chiến dịch Điện Biên Phủ",
+      "Chiến dịch Tây Nguyên",
+      "Chiến dịch Hồ Chí Minh",
+      "Chiến dịch Đường 9 – Nam Lào"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 216,
+    "chapter": 7,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: chiến dịch nào kết thúc thắng lợi cuộc kháng chiến chống thực dân Pháp năm 1954?",
+    "options": [
+      "Chiến dịch Đường 9 – Nam Lào",
+      "Chiến dịch Điện Biên Phủ",
+      "Chiến dịch Hồ Chí Minh",
+      "Chiến dịch Tây Nguyên"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 217,
+    "chapter": 7,
+    "question": "Chiến dịch nào giải phóng hoàn toàn miền Nam, thống nhất đất nước năm 1975?",
+    "options": [
+      "Chiến dịch Việt Bắc",
+      "Chiến dịch Biên giới",
+      "Chiến dịch Điện Biên Phủ",
+      "Chiến dịch Hồ Chí Minh"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 218,
+    "chapter": 7,
+    "question": "Chọn nhận định đúng nhất: chiến dịch nào giải phóng hoàn toàn miền Nam, thống nhất đất nước năm 1975?",
+    "options": [
+      "Chiến dịch Hồ Chí Minh",
+      "Chiến dịch Biên giới",
+      "Chiến dịch Việt Bắc",
+      "Chiến dịch Điện Biên Phủ"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 219,
+    "chapter": 7,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: chiến dịch nào giải phóng hoàn toàn miền Nam, thống nhất đất nước năm 1975?",
+    "options": [
+      "Chiến dịch Việt Bắc",
+      "Chiến dịch Điện Biên Phủ",
+      "Chiến dịch Hồ Chí Minh",
+      "Chiến dịch Biên giới"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 220,
+    "chapter": 7,
+    "question": "Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký ngày nào?",
+    "options": [
+      "02/09/1945",
+      "07/05/1954",
+      "27/01/1973",
+      "30/04/1975"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 221,
+    "chapter": 7,
+    "question": "Chọn nhận định đúng nhất: hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký ngày nào?",
+    "options": [
+      "27/01/1973",
+      "30/04/1975",
+      "02/09/1945",
+      "07/05/1954"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 222,
+    "chapter": 7,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký ngày nào?",
+    "options": [
+      "27/01/1973",
+      "02/09/1945",
+      "07/05/1954",
+      "30/04/1975"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 223,
+    "chapter": 7,
+    "question": "Trong nghệ thuật quân sự truyền thống, “mưu” thường nhấn mạnh điều gì?",
+    "options": [
+      "Chỉ sử dụng sức mạnh vật chất",
+      "Chỉ dựa vào may mắn",
+      "Không cần tìm hiểu tình hình",
+      "Vận dụng trí tuệ, đánh vào điểm yếu và hạn chế của đối phương"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 224,
+    "chapter": 7,
+    "question": "Chọn nhận định đúng nhất: trong nghệ thuật quân sự truyền thống, “mưu” thường nhấn mạnh điều gì?",
+    "options": [
+      "Không cần tìm hiểu tình hình",
+      "Chỉ sử dụng sức mạnh vật chất",
+      "Chỉ dựa vào may mắn",
+      "Vận dụng trí tuệ, đánh vào điểm yếu và hạn chế của đối phương"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 225,
+    "chapter": 7,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: trong nghệ thuật quân sự truyền thống, “mưu” thường nhấn mạnh điều gì?",
+    "options": [
+      "Chỉ sử dụng sức mạnh vật chất",
+      "Vận dụng trí tuệ, đánh vào điểm yếu và hạn chế của đối phương",
+      "Không cần tìm hiểu tình hình",
+      "Chỉ dựa vào may mắn"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 226,
+    "chapter": 7,
+    "question": "Trong nghệ thuật quân sự, “kế” được hiểu gần nhất là gì?",
+    "options": [
+      "Sắp đặt cách thức hành động để giành thế chủ động",
+      "Hoạt động không có kế hoạch",
+      "Chỉ là việc ghi chép lịch sử",
+      "Chỉ là hoạt động ngoại giao"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 227,
+    "chapter": 7,
+    "question": "Chọn nhận định đúng nhất: trong nghệ thuật quân sự, “kế” được hiểu gần nhất là gì?",
+    "options": [
+      "Hoạt động không có kế hoạch",
+      "Chỉ là việc ghi chép lịch sử",
+      "Sắp đặt cách thức hành động để giành thế chủ động",
+      "Chỉ là hoạt động ngoại giao"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 228,
+    "chapter": 7,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: trong nghệ thuật quân sự, “kế” được hiểu gần nhất là gì?",
+    "options": [
+      "Chỉ là hoạt động ngoại giao",
+      "Hoạt động không có kế hoạch",
+      "Sắp đặt cách thức hành động để giành thế chủ động",
+      "Chỉ là việc ghi chép lịch sử"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 229,
+    "chapter": 7,
+    "question": "Mặt trận chính trị có vai trò gì trong sự kết hợp các mặt trận?",
+    "options": [
+      "Tạo cơ sở chính trị và phát huy sức mạnh đoàn kết",
+      "Chỉ thực hiện sau chiến tranh",
+      "Không liên quan đến nhân dân",
+      "Thay thế hoàn toàn mặt trận quân sự"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 230,
+    "chapter": 7,
+    "question": "Chọn nhận định đúng nhất: mặt trận chính trị có vai trò gì trong sự kết hợp các mặt trận?",
+    "options": [
+      "Tạo cơ sở chính trị và phát huy sức mạnh đoàn kết",
+      "Thay thế hoàn toàn mặt trận quân sự",
+      "Chỉ thực hiện sau chiến tranh",
+      "Không liên quan đến nhân dân"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 231,
+    "chapter": 7,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: mặt trận chính trị có vai trò gì trong sự kết hợp các mặt trận?",
+    "options": [
+      "Tạo cơ sở chính trị và phát huy sức mạnh đoàn kết",
+      "Thay thế hoàn toàn mặt trận quân sự",
+      "Chỉ thực hiện sau chiến tranh",
+      "Không liên quan đến nhân dân"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 232,
+    "chapter": 7,
+    "question": "Mặt trận ngoại giao góp phần quan trọng vào điều gì?",
+    "options": [
+      "Tranh thủ sự ủng hộ quốc tế và tạo điều kiện giải quyết chiến tranh bằng đàm phán",
+      "Thay thế mọi hoạt động trong nước",
+      "Không liên quan đến lợi ích quốc gia",
+      "Chỉ phục vụ trao đổi thương mại"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 233,
+    "chapter": 7,
+    "question": "Chọn nhận định đúng nhất: mặt trận ngoại giao góp phần quan trọng vào điều gì?",
+    "options": [
+      "Tranh thủ sự ủng hộ quốc tế và tạo điều kiện giải quyết chiến tranh bằng đàm phán",
+      "Không liên quan đến lợi ích quốc gia",
+      "Thay thế mọi hoạt động trong nước",
+      "Chỉ phục vụ trao đổi thương mại"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 234,
+    "chapter": 7,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: mặt trận ngoại giao góp phần quan trọng vào điều gì?",
+    "options": [
+      "Không liên quan đến lợi ích quốc gia",
+      "Chỉ phục vụ trao đổi thương mại",
+      "Tranh thủ sự ủng hộ quốc tế và tạo điều kiện giải quyết chiến tranh bằng đàm phán",
+      "Thay thế mọi hoạt động trong nước"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 235,
+    "chapter": 8,
+    "question": "Theo luật pháp quốc tế hiện đại, các quốc gia bình đẳng về yếu tố nào?",
+    "options": [
+      "Quy mô dân số",
+      "Sức mạnh kinh tế",
+      "Chủ quyền",
+      "Diện tích lãnh thổ"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 236,
+    "chapter": 8,
+    "question": "Chọn nhận định đúng nhất: theo luật pháp quốc tế hiện đại, các quốc gia bình đẳng về yếu tố nào?",
+    "options": [
+      "Diện tích lãnh thổ",
+      "Sức mạnh kinh tế",
+      "Chủ quyền",
+      "Quy mô dân số"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 237,
+    "chapter": 8,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: theo luật pháp quốc tế hiện đại, các quốc gia bình đẳng về yếu tố nào?",
+    "options": [
+      "Chủ quyền",
+      "Quy mô dân số",
+      "Sức mạnh kinh tế",
+      "Diện tích lãnh thổ"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 238,
+    "chapter": 8,
+    "question": "Một quốc gia thường được cấu thành bởi những yếu tố cơ bản nào?",
+    "options": [
+      "Chỉ dân cư và ngôn ngữ",
+      "Chỉ lãnh thổ và tài nguyên",
+      "Chỉ chính phủ và quân đội",
+      "Lãnh thổ, dân cư và quyền lực công cộng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 239,
+    "chapter": 8,
+    "question": "Chọn nhận định đúng nhất: một quốc gia thường được cấu thành bởi những yếu tố cơ bản nào?",
+    "options": [
+      "Chỉ dân cư và ngôn ngữ",
+      "Lãnh thổ, dân cư và quyền lực công cộng",
+      "Chỉ chính phủ và quân đội",
+      "Chỉ lãnh thổ và tài nguyên"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 240,
+    "chapter": 8,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: một quốc gia thường được cấu thành bởi những yếu tố cơ bản nào?",
+    "options": [
+      "Chỉ lãnh thổ và tài nguyên",
+      "Chỉ chính phủ và quân đội",
+      "Lãnh thổ, dân cư và quyền lực công cộng",
+      "Chỉ dân cư và ngôn ngữ"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 241,
+    "chapter": 8,
+    "question": "Bảo vệ chủ quyền biển, đảo là trách nhiệm của ai?",
+    "options": [
+      "Chỉ lực lượng hải quân",
+      "Chỉ cơ quan ngoại giao",
+      "Toàn Đảng, toàn dân, toàn quân và cả hệ thống chính trị",
+      "Chỉ cư dân ven biển"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 242,
+    "chapter": 8,
+    "question": "Chọn nhận định đúng nhất: bảo vệ chủ quyền biển, đảo là trách nhiệm của ai?",
+    "options": [
+      "Chỉ lực lượng hải quân",
+      "Toàn Đảng, toàn dân, toàn quân và cả hệ thống chính trị",
+      "Chỉ cơ quan ngoại giao",
+      "Chỉ cư dân ven biển"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 243,
+    "chapter": 8,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: bảo vệ chủ quyền biển, đảo là trách nhiệm của ai?",
+    "options": [
+      "Chỉ lực lượng hải quân",
+      "Chỉ cư dân ven biển",
+      "Toàn Đảng, toàn dân, toàn quân và cả hệ thống chính trị",
+      "Chỉ cơ quan ngoại giao"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 244,
+    "chapter": 8,
+    "question": "Nguyên tắc phù hợp để giải quyết tranh chấp quốc tế là gì?",
+    "options": [
+      "Thông qua biện pháp hòa bình, phù hợp luật pháp quốc tế",
+      "Bỏ qua các cam kết quốc tế",
+      "Sử dụng vũ lực trước tiên",
+      "Đơn phương áp đặt yêu sách"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 245,
+    "chapter": 8,
+    "question": "Chọn nhận định đúng nhất: nguyên tắc phù hợp để giải quyết tranh chấp quốc tế là gì?",
+    "options": [
+      "Đơn phương áp đặt yêu sách",
+      "Thông qua biện pháp hòa bình, phù hợp luật pháp quốc tế",
+      "Sử dụng vũ lực trước tiên",
+      "Bỏ qua các cam kết quốc tế"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 246,
+    "chapter": 8,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: nguyên tắc phù hợp để giải quyết tranh chấp quốc tế là gì?",
+    "options": [
+      "Bỏ qua các cam kết quốc tế",
+      "Đơn phương áp đặt yêu sách",
+      "Sử dụng vũ lực trước tiên",
+      "Thông qua biện pháp hòa bình, phù hợp luật pháp quốc tế"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 247,
+    "chapter": 8,
+    "question": "Biên giới quốc gia có ý nghĩa cơ bản nào?",
+    "options": [
+      "Chỉ phân chia vùng kinh tế",
+      "Xác định ranh giới giữa các tỉnh",
+      "Chỉ phục vụ hoạt động du lịch",
+      "Xác định giới hạn lãnh thổ thuộc chủ quyền quốc gia"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 248,
+    "chapter": 8,
+    "question": "Chọn nhận định đúng nhất: biên giới quốc gia có ý nghĩa cơ bản nào?",
+    "options": [
+      "Xác định ranh giới giữa các tỉnh",
+      "Chỉ phân chia vùng kinh tế",
+      "Xác định giới hạn lãnh thổ thuộc chủ quyền quốc gia",
+      "Chỉ phục vụ hoạt động du lịch"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 249,
+    "chapter": 8,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: biên giới quốc gia có ý nghĩa cơ bản nào?",
+    "options": [
+      "Chỉ phân chia vùng kinh tế",
+      "Chỉ phục vụ hoạt động du lịch",
+      "Xác định giới hạn lãnh thổ thuộc chủ quyền quốc gia",
+      "Xác định ranh giới giữa các tỉnh"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 250,
+    "chapter": 8,
+    "question": "Công dân có thể góp phần bảo vệ chủ quyền biển, đảo bằng cách nào?",
+    "options": [
+      "Chia sẻ tin chưa kiểm chứng",
+      "Tự ý tham gia hoạt động nguy hiểm",
+      "Phớt lờ quy định pháp luật",
+      "Tìm hiểu pháp luật, nâng cao ý thức và tuyên truyền thông tin chính xác"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 251,
+    "chapter": 8,
+    "question": "Chọn nhận định đúng nhất: công dân có thể góp phần bảo vệ chủ quyền biển, đảo bằng cách nào?",
+    "options": [
+      "Chia sẻ tin chưa kiểm chứng",
+      "Tìm hiểu pháp luật, nâng cao ý thức và tuyên truyền thông tin chính xác",
+      "Tự ý tham gia hoạt động nguy hiểm",
+      "Phớt lờ quy định pháp luật"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 252,
+    "chapter": 8,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: công dân có thể góp phần bảo vệ chủ quyền biển, đảo bằng cách nào?",
+    "options": [
+      "Tìm hiểu pháp luật, nâng cao ý thức và tuyên truyền thông tin chính xác",
+      "Tự ý tham gia hoạt động nguy hiểm",
+      "Chia sẻ tin chưa kiểm chứng",
+      "Phớt lờ quy định pháp luật"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 253,
+    "chapter": 8,
+    "question": "Khi tiếp cận thông tin về tranh chấp biển đảo, sinh viên nên làm gì?",
+    "options": [
+      "Kiểm chứng từ nguồn tin cậy và tôn trọng pháp luật",
+      "Chia sẻ ngay mọi thông tin gây chú ý",
+      "Tự suy đoán rồi khẳng định",
+      "Dựa hoàn toàn vào bình luận mạng xã hội"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 254,
+    "chapter": 8,
+    "question": "Chọn nhận định đúng nhất: khi tiếp cận thông tin về tranh chấp biển đảo, sinh viên nên làm gì?",
+    "options": [
+      "Chia sẻ ngay mọi thông tin gây chú ý",
+      "Kiểm chứng từ nguồn tin cậy và tôn trọng pháp luật",
+      "Tự suy đoán rồi khẳng định",
+      "Dựa hoàn toàn vào bình luận mạng xã hội"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 255,
+    "chapter": 8,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: khi tiếp cận thông tin về tranh chấp biển đảo, sinh viên nên làm gì?",
+    "options": [
+      "Chia sẻ ngay mọi thông tin gây chú ý",
+      "Dựa hoàn toàn vào bình luận mạng xã hội",
+      "Tự suy đoán rồi khẳng định",
+      "Kiểm chứng từ nguồn tin cậy và tôn trọng pháp luật"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 256,
+    "chapter": 8,
+    "question": "Bảo vệ chủ quyền biên giới quốc gia cần kết hợp những hoạt động nào?",
+    "options": [
+      "Chỉ xây dựng công trình dân dụng",
+      "Quản lý, bảo vệ đường biên với phát triển kinh tế – xã hội và đối ngoại",
+      "Chỉ tuyên truyền mà không quản lý",
+      "Chỉ tổ chức hoạt động du lịch"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 257,
+    "chapter": 8,
+    "question": "Chọn nhận định đúng nhất: bảo vệ chủ quyền biên giới quốc gia cần kết hợp những hoạt động nào?",
+    "options": [
+      "Chỉ tuyên truyền mà không quản lý",
+      "Chỉ tổ chức hoạt động du lịch",
+      "Quản lý, bảo vệ đường biên với phát triển kinh tế – xã hội và đối ngoại",
+      "Chỉ xây dựng công trình dân dụng"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 258,
+    "chapter": 8,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: bảo vệ chủ quyền biên giới quốc gia cần kết hợp những hoạt động nào?",
+    "options": [
+      "Chỉ xây dựng công trình dân dụng",
+      "Chỉ tổ chức hoạt động du lịch",
+      "Chỉ tuyên truyền mà không quản lý",
+      "Quản lý, bảo vệ đường biên với phát triển kinh tế – xã hội và đối ngoại"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 259,
+    "chapter": 9,
+    "question": "Dân quân là lực lượng được tổ chức chủ yếu ở đâu?",
+    "options": [
+      "Địa phương",
+      "Cơ quan ngoại giao",
+      "Doanh nghiệp nước ngoài",
+      "Trường đại học nước ngoài"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 260,
+    "chapter": 9,
+    "question": "Chọn nhận định đúng nhất: dân quân là lực lượng được tổ chức chủ yếu ở đâu?",
+    "options": [
+      "Doanh nghiệp nước ngoài",
+      "Trường đại học nước ngoài",
+      "Địa phương",
+      "Cơ quan ngoại giao"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 261,
+    "chapter": 9,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: dân quân là lực lượng được tổ chức chủ yếu ở đâu?",
+    "options": [
+      "Địa phương",
+      "Doanh nghiệp nước ngoài",
+      "Trường đại học nước ngoài",
+      "Cơ quan ngoại giao"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 262,
+    "chapter": 9,
+    "question": "Tự vệ là lực lượng được tổ chức chủ yếu ở đâu?",
+    "options": [
+      "Chỉ ở thôn, xóm",
+      "Chỉ trên biển",
+      "Cơ quan, tổ chức, đơn vị",
+      "Chỉ trong quân đội thường trực"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 263,
+    "chapter": 9,
+    "question": "Chọn nhận định đúng nhất: tự vệ là lực lượng được tổ chức chủ yếu ở đâu?",
+    "options": [
+      "Chỉ ở thôn, xóm",
+      "Cơ quan, tổ chức, đơn vị",
+      "Chỉ trong quân đội thường trực",
+      "Chỉ trên biển"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 264,
+    "chapter": 9,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: tự vệ là lực lượng được tổ chức chủ yếu ở đâu?",
+    "options": [
+      "Chỉ ở thôn, xóm",
+      "Chỉ trên biển",
+      "Cơ quan, tổ chức, đơn vị",
+      "Chỉ trong quân đội thường trực"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 265,
+    "chapter": 9,
+    "question": "Dân quân tự vệ có vị trí như thế nào trong lực lượng vũ trang nhân dân?",
+    "options": [
+      "Là tổ chức xã hội nghề nghiệp",
+      "Là thành phần của lực lượng vũ trang nhân dân",
+      "Là lực lượng tư nhân",
+      "Là tổ chức kinh tế"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 266,
+    "chapter": 9,
+    "question": "Chọn nhận định đúng nhất: dân quân tự vệ có vị trí như thế nào trong lực lượng vũ trang nhân dân?",
+    "options": [
+      "Là tổ chức kinh tế",
+      "Là tổ chức xã hội nghề nghiệp",
+      "Là lực lượng tư nhân",
+      "Là thành phần của lực lượng vũ trang nhân dân"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 267,
+    "chapter": 9,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: dân quân tự vệ có vị trí như thế nào trong lực lượng vũ trang nhân dân?",
+    "options": [
+      "Là thành phần của lực lượng vũ trang nhân dân",
+      "Là tổ chức kinh tế",
+      "Là lực lượng tư nhân",
+      "Là tổ chức xã hội nghề nghiệp"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 268,
+    "chapter": 9,
+    "question": "Phương châm xây dựng Dân quân tự vệ được nêu là gì?",
+    "options": [
+      "Tự phát, phân tán, không tổ chức",
+      "Tập trung, khép kín, coi trọng số lượng",
+      "Vững mạnh, rộng khắp, coi trọng chất lượng là chính",
+      "Chỉ xây dựng ở thành thị"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 269,
+    "chapter": 9,
+    "question": "Chọn nhận định đúng nhất: phương châm xây dựng Dân quân tự vệ được nêu là gì?",
+    "options": [
+      "Vững mạnh, rộng khắp, coi trọng chất lượng là chính",
+      "Tập trung, khép kín, coi trọng số lượng",
+      "Chỉ xây dựng ở thành thị",
+      "Tự phát, phân tán, không tổ chức"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 270,
+    "chapter": 9,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: phương châm xây dựng Dân quân tự vệ được nêu là gì?",
+    "options": [
+      "Vững mạnh, rộng khắp, coi trọng chất lượng là chính",
+      "Tập trung, khép kín, coi trọng số lượng",
+      "Chỉ xây dựng ở thành thị",
+      "Tự phát, phân tán, không tổ chức"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 271,
+    "chapter": 9,
+    "question": "Dân quân tự vệ biển thực hiện nhiệm vụ gắn với địa bàn nào?",
+    "options": [
+      "Khu vực miền núi בלבד",
+      "Khu vực đô thị nội địa",
+      "Khu vực biển, đảo",
+      "Khu vực cửa khẩu hàng không"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 272,
+    "chapter": 9,
+    "question": "Chọn nhận định đúng nhất: dân quân tự vệ biển thực hiện nhiệm vụ gắn với địa bàn nào?",
+    "options": [
+      "Khu vực biển, đảo",
+      "Khu vực miền núi בלבד",
+      "Khu vực đô thị nội địa",
+      "Khu vực cửa khẩu hàng không"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 273,
+    "chapter": 9,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: dân quân tự vệ biển thực hiện nhiệm vụ gắn với địa bàn nào?",
+    "options": [
+      "Khu vực miền núi בלבד",
+      "Khu vực cửa khẩu hàng không",
+      "Khu vực biển, đảo",
+      "Khu vực đô thị nội địa"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 274,
+    "chapter": 9,
+    "question": "Lực lượng dự bị động viên gồm những thành phần cơ bản nào?",
+    "options": [
+      "Chỉ phương tiện dân dụng",
+      "Quân nhân dự bị và phương tiện kỹ thuật dự bị",
+      "Học sinh và sinh viên",
+      "Công chức và viên chức"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 275,
+    "chapter": 9,
+    "question": "Chọn nhận định đúng nhất: lực lượng dự bị động viên gồm những thành phần cơ bản nào?",
+    "options": [
+      "Công chức và viên chức",
+      "Quân nhân dự bị và phương tiện kỹ thuật dự bị",
+      "Chỉ phương tiện dân dụng",
+      "Học sinh và sinh viên"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 276,
+    "chapter": 9,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: lực lượng dự bị động viên gồm những thành phần cơ bản nào?",
+    "options": [
+      "Quân nhân dự bị và phương tiện kỹ thuật dự bị",
+      "Học sinh và sinh viên",
+      "Chỉ phương tiện dân dụng",
+      "Công chức và viên chức"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 277,
+    "chapter": 9,
+    "question": "Mục đích xây dựng lực lượng dự bị động viên là gì?",
+    "options": [
+      "Quản lý hoạt động giao thông",
+      "Thay thế các cơ quan dân sự",
+      "Bảo đảm khả năng bổ sung lực lượng khi có yêu cầu",
+      "Phục vụ hoạt động sản xuất thường xuyên"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 278,
+    "chapter": 9,
+    "question": "Chọn nhận định đúng nhất: mục đích xây dựng lực lượng dự bị động viên là gì?",
+    "options": [
+      "Phục vụ hoạt động sản xuất thường xuyên",
+      "Thay thế các cơ quan dân sự",
+      "Bảo đảm khả năng bổ sung lực lượng khi có yêu cầu",
+      "Quản lý hoạt động giao thông"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 279,
+    "chapter": 9,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: mục đích xây dựng lực lượng dự bị động viên là gì?",
+    "options": [
+      "Bảo đảm khả năng bổ sung lực lượng khi có yêu cầu",
+      "Quản lý hoạt động giao thông",
+      "Thay thế các cơ quan dân sự",
+      "Phục vụ hoạt động sản xuất thường xuyên"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 280,
+    "chapter": 9,
+    "question": "“Ngụ binh ư nông” là kế sách lịch sử gắn với tư tưởng nào?",
+    "options": [
+      "Tách quân đội khỏi đời sống",
+      "Kết hợp xây dựng lực lượng với lao động sản xuất",
+      "Không tổ chức lực lượng tại địa phương",
+      "Chỉ dựa vào quân đội thường trực"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 281,
+    "chapter": 9,
+    "question": "Chọn nhận định đúng nhất: “Ngụ binh ư nông” là kế sách lịch sử gắn với tư tưởng nào?",
+    "options": [
+      "Kết hợp xây dựng lực lượng với lao động sản xuất",
+      "Chỉ dựa vào quân đội thường trực",
+      "Không tổ chức lực lượng tại địa phương",
+      "Tách quân đội khỏi đời sống"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 282,
+    "chapter": 9,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: “Ngụ binh ư nông” là kế sách lịch sử gắn với tư tưởng nào?",
+    "options": [
+      "Kết hợp xây dựng lực lượng với lao động sản xuất",
+      "Chỉ dựa vào quân đội thường trực",
+      "Tách quân đội khỏi đời sống",
+      "Không tổ chức lực lượng tại địa phương"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 283,
+    "chapter": 9,
+    "question": "Động viên công nghiệp quốc phòng được hiểu khái quát là gì?",
+    "options": [
+      "Chỉ tăng sản lượng hàng tiêu dùng",
+      "Đóng cửa các cơ sở sản xuất",
+      "Chuyển toàn bộ doanh nghiệp thành cơ quan hành chính",
+      "Chuyển một phần năng lực công nghiệp phù hợp sang phục vụ nhiệm vụ quốc phòng khi cần thiết"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 284,
+    "chapter": 9,
+    "question": "Chọn nhận định đúng nhất: động viên công nghiệp quốc phòng được hiểu khái quát là gì?",
+    "options": [
+      "Chuyển một phần năng lực công nghiệp phù hợp sang phục vụ nhiệm vụ quốc phòng khi cần thiết",
+      "Đóng cửa các cơ sở sản xuất",
+      "Chuyển toàn bộ doanh nghiệp thành cơ quan hành chính",
+      "Chỉ tăng sản lượng hàng tiêu dùng"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 285,
+    "chapter": 9,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: động viên công nghiệp quốc phòng được hiểu khái quát là gì?",
+    "options": [
+      "Chỉ tăng sản lượng hàng tiêu dùng",
+      "Đóng cửa các cơ sở sản xuất",
+      "Chuyển toàn bộ doanh nghiệp thành cơ quan hành chính",
+      "Chuyển một phần năng lực công nghiệp phù hợp sang phục vụ nhiệm vụ quốc phòng khi cần thiết"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 286,
+    "chapter": 9,
+    "question": "Một yêu cầu quan trọng trong chuẩn bị động viên công nghiệp là gì?",
+    "options": [
+      "Công khai mọi thông tin nhạy cảm",
+      "Chuẩn bị chu đáo, an toàn, bí mật, tiết kiệm và hiệu quả",
+      "Thực hiện tùy tiện, không kế hoạch",
+      "Không cần phối hợp quản lý"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 287,
+    "chapter": 9,
+    "question": "Chọn nhận định đúng nhất: một yêu cầu quan trọng trong chuẩn bị động viên công nghiệp là gì?",
+    "options": [
+      "Chuẩn bị chu đáo, an toàn, bí mật, tiết kiệm và hiệu quả",
+      "Không cần phối hợp quản lý",
+      "Công khai mọi thông tin nhạy cảm",
+      "Thực hiện tùy tiện, không kế hoạch"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 288,
+    "chapter": 9,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: một yêu cầu quan trọng trong chuẩn bị động viên công nghiệp là gì?",
+    "options": [
+      "Chuẩn bị chu đáo, an toàn, bí mật, tiết kiệm và hiệu quả",
+      "Thực hiện tùy tiện, không kế hoạch",
+      "Công khai mọi thông tin nhạy cảm",
+      "Không cần phối hợp quản lý"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 289,
+    "chapter": 9,
+    "question": "Công tác xây dựng lực lượng dự bị động viên cần chú trọng điều gì?",
+    "options": [
+      "Không cần huấn luyện",
+      "Chỉ thống kê số lượng một lần",
+      "Không cần cập nhật thông tin",
+      "Đăng ký, quản lý, huấn luyện và sắp xếp lực lượng theo kế hoạch"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 290,
+    "chapter": 9,
+    "question": "Chọn nhận định đúng nhất: công tác xây dựng lực lượng dự bị động viên cần chú trọng điều gì?",
+    "options": [
+      "Đăng ký, quản lý, huấn luyện và sắp xếp lực lượng theo kế hoạch",
+      "Không cần huấn luyện",
+      "Không cần cập nhật thông tin",
+      "Chỉ thống kê số lượng một lần"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 291,
+    "chapter": 9,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: công tác xây dựng lực lượng dự bị động viên cần chú trọng điều gì?",
+    "options": [
+      "Chỉ thống kê số lượng một lần",
+      "Không cần huấn luyện",
+      "Đăng ký, quản lý, huấn luyện và sắp xếp lực lượng theo kế hoạch",
+      "Không cần cập nhật thông tin"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 292,
+    "chapter": 9,
+    "question": "Dân quân tự vệ tại chỗ gắn với đặc điểm nào?",
+    "options": [
+      "Chỉ gồm lực lượng chuyên nghiệp",
+      "Được tổ chức tại địa bàn cơ sở để thực hiện nhiệm vụ tại chỗ",
+      "Chỉ hoạt động trên biển",
+      "Chỉ hoạt động ở nước ngoài"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 293,
+    "chapter": 9,
+    "question": "Chọn nhận định đúng nhất: dân quân tự vệ tại chỗ gắn với đặc điểm nào?",
+    "options": [
+      "Chỉ hoạt động ở nước ngoài",
+      "Được tổ chức tại địa bàn cơ sở để thực hiện nhiệm vụ tại chỗ",
+      "Chỉ gồm lực lượng chuyên nghiệp",
+      "Chỉ hoạt động trên biển"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 294,
+    "chapter": 9,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: dân quân tự vệ tại chỗ gắn với đặc điểm nào?",
+    "options": [
+      "Chỉ hoạt động ở nước ngoài",
+      "Chỉ hoạt động trên biển",
+      "Được tổ chức tại địa bàn cơ sở để thực hiện nhiệm vụ tại chỗ",
+      "Chỉ gồm lực lượng chuyên nghiệp"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 295,
+    "chapter": 10,
+    "question": "Phong trào toàn dân bảo vệ an ninh Tổ quốc là hình thức hoạt động như thế nào?",
+    "options": [
+      "Hoạt động chỉ của cơ quan công an",
+      "Hoạt động kinh doanh dịch vụ",
+      "Hoạt động tự phát của một cá nhân",
+      "Tự giác, có tổ chức của đông đảo quần chúng nhân dân"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 296,
+    "chapter": 10,
+    "question": "Chọn nhận định đúng nhất: phong trào toàn dân bảo vệ an ninh Tổ quốc là hình thức hoạt động như thế nào?",
+    "options": [
+      "Tự giác, có tổ chức của đông đảo quần chúng nhân dân",
+      "Hoạt động chỉ của cơ quan công an",
+      "Hoạt động kinh doanh dịch vụ",
+      "Hoạt động tự phát của một cá nhân"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 297,
+    "chapter": 10,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: phong trào toàn dân bảo vệ an ninh Tổ quốc là hình thức hoạt động như thế nào?",
+    "options": [
+      "Tự giác, có tổ chức của đông đảo quần chúng nhân dân",
+      "Hoạt động kinh doanh dịch vụ",
+      "Hoạt động tự phát của một cá nhân",
+      "Hoạt động chỉ của cơ quan công an"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 298,
+    "chapter": 10,
+    "question": "Mục đích của phong trào toàn dân bảo vệ an ninh Tổ quốc là gì?",
+    "options": [
+      "Chỉ quản lý hoạt động thương mại",
+      "Chỉ tổ chức hoạt động văn nghệ",
+      "Huy động nhân dân tham gia bảo vệ an ninh quốc gia, giữ gìn trật tự an toàn xã hội",
+      "Thay thế chức năng của chính quyền"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 299,
+    "chapter": 10,
+    "question": "Chọn nhận định đúng nhất: mục đích của phong trào toàn dân bảo vệ an ninh Tổ quốc là gì?",
+    "options": [
+      "Chỉ quản lý hoạt động thương mại",
+      "Huy động nhân dân tham gia bảo vệ an ninh quốc gia, giữ gìn trật tự an toàn xã hội",
+      "Thay thế chức năng của chính quyền",
+      "Chỉ tổ chức hoạt động văn nghệ"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 300,
+    "chapter": 10,
+    "question": "Trong nội dung ôn tập học phần 1, kiến thức nào sau đây phù hợp với câu hỏi: mục đích của phong trào toàn dân bảo vệ an ninh Tổ quốc là gì?",
+    "options": [
+      "Chỉ quản lý hoạt động thương mại",
+      "Thay thế chức năng của chính quyền",
+      "Huy động nhân dân tham gia bảo vệ an ninh quốc gia, giữ gìn trật tự an toàn xã hội",
+      "Chỉ tổ chức hoạt động văn nghệ"
+    ],
+    "answer": "C"
+  }
+]

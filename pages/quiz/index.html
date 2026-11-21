@@ -1,0 +1,90 @@
+﻿<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#17351f">
+  <meta name="description" content="Làm bài trắc nghiệm GDQP-AN với ngân hàng 300 câu hỏi, chia theo 10 chương.">
+  <title>Làm bài trắc nghiệm · GDQP-AN</title>
+  <link rel="stylesheet" href="../../src/quiz.css"><link rel="stylesheet" href="../../src/navigation.css"><link rel="stylesheet" href="../../src/confirm.css"><link rel="stylesheet" href="../../src/footer.css">
+  <script src="../../src/confirm.js" defer></script><script src="../../src/quiz.js" defer></script><script src="../../src/footer.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="../../">GDQP-AN <span>Học phần 1</span></a>
+    <nav class="topnav" aria-label="Điều hướng chính"><a href="../practice/">Luyện tập</a><a href="../history/">Lịch sử</a><a class="prep-nav" href="../preparation/">Bí kíp chuẩn bị</a><a class="info-nav" href="../info/">Info</a><a class="back-action" href="../../"><span class="back-icon" aria-hidden="true">←</span>Trang chủ</a></nav>
+  </header>
+  <main class="shell">
+    <section class="intro">
+      <p class="eyebrow">Ngân hàng câu hỏi</p>
+      <h1>Luyện tập trắc nghiệm</h1>
+      <p id="load-status" role="status">Đang tải câu hỏi…</p>
+    </section>
+
+    <section id="setup-panel" class="panel setup-panel" aria-labelledby="setup-heading" hidden>
+      <h2 id="setup-heading">Tùy chỉnh bài luyện tập</h2>
+      <div class="setup-fields">
+        <label>Phạm vi câu hỏi
+          <select id="chapter-select"><option value="all">Tất cả chương</option></select>
+        </label>
+        <label>Số câu
+          <select id="question-count">
+            <option value="10">10 câu</option><option value="20">20 câu</option>
+            <option value="40" selected>40 câu</option><option value="all">Toàn bộ câu phù hợp</option>
+          </select>
+        </label>
+        <label>Thời gian
+          <select id="time-limit"><option value="0">Không giới hạn</option><option value="15">15 phút</option><option value="30" selected>30 phút</option><option value="45">45 phút</option>
+          </select>
+        </label>
+      </div>
+      <p id="available-count" class="muted"></p>
+      <button id="start-btn" class="button primary" type="button">Bắt đầu làm bài</button>
+    </section>
+
+    <section id="quiz-panel" hidden>
+      <div class="quiz-meta panel">
+        <div><span class="eyebrow">Tiến độ</span><strong id="progress-label">Câu 1/40</strong></div>
+        <div><span class="eyebrow">Thời gian</span><strong id="timer" aria-live="off">30:00</strong></div>
+        <button id="finish-btn" class="button outline" type="button">Nộp bài</button>
+      </div>
+      <div class="progress-track" aria-hidden="true"><span id="progress-bar"></span></div>
+      <article class="panel question-panel">
+        <p id="chapter-label" class="chapter-label"></p>
+        <h2 id="question-text" tabindex="-1"></h2>
+        <fieldset id="answer-options" class="options"><legend class="sr-only">Chọn một đáp án</legend></fieldset>
+        <div class="question-actions">
+          <button id="flag-btn" class="button outline" type="button" aria-pressed="false">☆ Đánh dấu xem lại</button>
+          <div class="pager"><button id="prev-btn" class="back-action" type="button"><span class="back-icon" aria-hidden="true">←</span>Câu trước</button><button id="next-btn" class="button primary" type="button">Câu tiếp</button></div>
+        </div>
+      </article>
+      <section class="panel question-map-panel" aria-label="Danh sách câu hỏi">
+        <h2>Danh sách câu</h2><div id="question-map" class="question-map"></div>
+        <p class="map-legend"><span class="legend answered"></span> Đã chọn <span class="legend flagged"></span> Đánh dấu <span class="legend current"></span> Đang xem</p>
+      </section>
+    </section>
+
+    <section id="result-panel" class="panel result-panel" aria-live="polite" hidden>
+      <p class="eyebrow">Hoàn thành</p><h2>Kết quả bài làm</h2>
+      <p class="score-line"><strong id="score"></strong> <span id="score-detail"></span></p>
+      <div id="review-list" class="review-list"></div>
+      <a id="review-attempt-link" class="button primary" href="../answer-review/">Xem lại đáp án chi tiết</a><button id="retry-btn" class="button outline" type="button">Làm bài mới</button>
+    </section>
+  </main>
+<footer class="site-footer">
+  <img class="site-footer__image" src="../../assets/pano.png" alt="" aria-hidden="true">
+  <div class="site-footer__content">
+    <p class="site-footer__label">Giáo dục Quốc phòng và An ninh</p>
+    <p class="site-footer__copyright">© <span data-current-year>2026</span> Trung tâm Giáo dục Quốc phòng, Đại học Đà Nẵng</p>
+    <p class="site-footer__rights">Bản quyền nội dung thuộc Trung tâm Giáo dục Quốc phòng, Đại học Đà Nẵng.</p>
+  </div>
+</footer>
+</body>
+</html>
+
+
+
+
+
+
+
