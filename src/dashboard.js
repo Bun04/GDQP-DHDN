@@ -22,7 +22,8 @@
     if (!attempts.length) { const empty = document.createElement('p'); empty.className = 'empty'; empty.textContent = 'Chưa có lượt làm bài. Kết quả sẽ xuất hiện ở đây.'; recent.append(empty); }
     attempts.slice(0, 3).forEach((attempt) => {
       const row = document.createElement('article'); row.className = 'row-item';
-      const info = document.createElement('div'); const title = document.createElement('h3'); title.textContent = `${attempt.score}/${attempt.total} câu đúng`;
+      const scoreOutOfTen = attempt.score / attempt.total * 10;
+      const info = document.createElement('div'); const title = document.createElement('h3'); title.textContent = `${attempt.score}/${attempt.total} câu đúng · ${Number(scoreOutOfTen.toFixed(2))}/10 điểm`;
       const date = document.createElement('p'); date.textContent = new Date(attempt.createdAt).toLocaleString('vi-VN'); info.append(title, date);
       const link = document.createElement('a'); link.className = 'button outline'; link.href = `pages/answer-review/?attempt=${encodeURIComponent(attempt.id)}`; link.textContent = 'Xem lại';
       row.append(info, link); recent.append(row);

@@ -7,13 +7,18 @@
     document.querySelector('#attempt-count').textContent = attempts.length;
     const avg = attempts.length ? Math.round(attempts.reduce((sum, item) => sum + item.score / item.total, 0) / attempts.length * 100) : null;
     const best = attempts.length ? Math.max(...attempts.map((item) => Math.round(item.score / item.total * 100))) : null;
-    document.querySelector('#average-score').textContent = avg === null ? '—' : `${avg}%`;
-    document.querySelector('#best-score').textContent = best === null ? '—' : `${best}%`;
+    const avgOutOfTen = attempts.length ? attempts.reduce((sum, item) => sum + item.score / item.total * 10, 0) / attempts.length : null;
+    const bestOutOfTen = attempts.length ? Math.max(...attempts.map((item) => item.score / item.total * 10)) : null;
+    document.querySelector('#average-score').textContent = avgOutOfTen === null ? '—' : `${Number(avgOutOfTen.toFixed(2))}/10`;
+    document.querySelector('#average-score-detail').textContent = avg === null ? '' : `${avg}%`;
+    document.querySelector('#best-score').textContent = bestOutOfTen === null ? '—' : `${Number(bestOutOfTen.toFixed(2))}/10`;
+    document.querySelector('#best-score-detail').textContent = best === null ? '' : `${best}%`;
     host.replaceChildren();
     if (!attempts.length) { const empty = document.createElement('p'); empty.className = 'empty'; empty.textContent = 'Chưa có lượt làm bài nào trên trình duyệt này.'; host.append(empty); return; }
     attempts.forEach((attempt) => {
       const row = document.createElement('article'); row.className = 'row-item';
-      const info = document.createElement('div'); const title = document.createElement('h3'); title.textContent = `${attempt.score}/${attempt.total} câu đúng · ${Math.round(attempt.score / attempt.total * 100)}%`;
+      const scoreOutOfTen = attempt.score / attempt.total * 10;
+      const info = document.createElement('div'); const title = document.createElement('h3'); title.textContent = `${attempt.score}/${attempt.total} câu đúng · ${Math.round(attempt.score / attempt.total * 100)}% · ${Number(scoreOutOfTen.toFixed(2))}/10 điểm`;
       const date = document.createElement('p'); date.textContent = new Date(attempt.createdAt).toLocaleString('vi-VN'); info.append(title, date);
       const link = document.createElement('a'); link.className = 'button outline'; link.href = `../answer-review/?attempt=${encodeURIComponent(attempt.id)}`; link.textContent = 'Xem lại đáp án';
       row.append(info, link); host.append(row);

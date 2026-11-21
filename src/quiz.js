@@ -189,7 +189,8 @@
       $('#review-attempt-link').href = `../answer-review/?attempt=${encodeURIComponent(attempt.id)}`;
     } catch { $('#review-attempt-link').hidden = true; }
     $('#score').textContent = `${correctCount}/${state.active.length}`;
-    $('#score-detail').textContent = `(${Math.round((correctCount / state.active.length) * 100)}%)${timeExpired ? ' · Hết giờ' : ''}`;
+    const scoreOutOfTen = correctCount / state.active.length * 10;
+    $('#score-detail').textContent = `(${Math.round((correctCount / state.active.length) * 100)}%) · ${Number(scoreOutOfTen.toFixed(2))}/10 điểm${timeExpired ? ' · Hết giờ' : ''}`;
     const review = $('#review-list');
     review.replaceChildren();
     state.active.forEach((question, index) => {

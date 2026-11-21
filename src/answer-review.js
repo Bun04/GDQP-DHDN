@@ -7,7 +7,8 @@
   const attempt = attempts.find((item) => item.id === id);
   if (!attempt) { summary.innerHTML = '<p class="empty">Không tìm thấy kết quả trên trình duyệt này. Lịch sử chỉ lưu cục bộ trên thiết bị đã làm bài.</p>'; return; }
   summary.replaceChildren();
-  const heading = document.createElement('h2'); heading.textContent = `${attempt.score}/${attempt.total} câu đúng · ${Math.round(attempt.score / attempt.total * 100)}%`;
+  const scoreOutOfTen = attempt.score / attempt.total * 10;
+  const heading = document.createElement('h2'); heading.textContent = `${attempt.score}/${attempt.total} câu đúng · ${Math.round(attempt.score / attempt.total * 100)}% · ${Number(scoreOutOfTen.toFixed(2))}/10 điểm`;
   const date = document.createElement('p'); date.className = 'muted'; date.textContent = new Date(attempt.createdAt).toLocaleString('vi-VN');
   summary.append(heading, date);
   (attempt.questions || []).forEach((question, index) => {
