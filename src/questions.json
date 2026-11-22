@@ -1198,5 +1198,2405 @@
       "Thay thế chức năng của chính quyền"
     ],
     "answer": "C"
+  },
+  {
+    "id": 101,
+    "chapter": 1,
+    "question": "GDQP-AN là môn học thuộc khối kiến thức nào của đào tạo đại học?",
+    "options": [
+      "Giáo dục thể chất và quốc phòng",
+      "Chuyên ngành bắt buộc",
+      "Khoa học tự nhiên",
+      "Ngoại ngữ"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 102,
+    "chapter": 1,
+    "question": "Môn GDQP-AN nhằm góp phần hình thành cho sinh viên phẩm chất nào?",
+    "options": [
+      "Chỉ kỹ năng thể thao",
+      "Ý thức trách nhiệm bảo vệ Tổ quốc",
+      "Chỉ kiến thức tài chính",
+      "Chỉ ngoại ngữ"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 103,
+    "chapter": 1,
+    "question": "Đối tượng nghiên cứu trực tiếp của GDQP-AN là gì?",
+    "options": [
+      "Môn chuyên ngành kỹ thuật",
+      "Lịch sử văn học",
+      "Vấn đề quốc phòng, an ninh và kỹ năng quân sự cơ bản",
+      "Pháp luật dân sự"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 104,
+    "chapter": 1,
+    "question": "Nhiệm vụ quan trọng của sinh viên trong học tập GDQP-AN là gì?",
+    "options": [
+      "Chỉ ghi nhớ đáp án",
+      "Chỉ tham gia hoạt động thể lực",
+      "Chỉ học lý thuyết",
+      "Nắm vững tri thức, rèn luyện kỹ năng và ý thức thực hành"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 105,
+    "chapter": 1,
+    "question": "Phương pháp thảo luận trong GDQP-AN có ưu điểm nào?",
+    "options": [
+      "Phát huy tư duy, trao đổi và vận dụng kiến thức",
+      "Thay thế hoàn toàn thực hành",
+      "Hạn chế ý kiến sinh viên",
+      "Chỉ để chấm điểm"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 106,
+    "chapter": 1,
+    "question": "Việc học GDQP-AN gắn với thực tiễn nhằm mục đích gì?",
+    "options": [
+      "Thay thế công tác chuyên môn",
+      "Đưa kiến thức vào bảo vệ Tổ quốc và an ninh xã hội",
+      "Chỉ hoàn thành chương trình",
+      "Loại bỏ lý luận"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 107,
+    "chapter": 1,
+    "question": "Môn GDQP-AN rèn luyện cho sinh viên năng lực nào?",
+    "options": [
+      "Chỉ khả năng ghi nhớ",
+      "Chỉ khả năng thể thao",
+      "Nhận thức, hành động và ứng xử trong lĩnh vực quốc phòng, an ninh",
+      "Chỉ khả năng thuyết trình"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 108,
+    "chapter": 1,
+    "question": "Nội dung GDQP-AN ở đại học gồm những phần chủ yếu nào?",
+    "options": [
+      "Chỉ lịch sử quân sự",
+      "Chỉ điều lệnh",
+      "Chỉ thể dục",
+      "Tri thức chính trị – xã hội và kiến thức, kỹ năng quân sự"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 109,
+    "chapter": 1,
+    "question": "Học phần 1 chủ yếu trang bị cho sinh viên kiến thức nào?",
+    "options": [
+      "Đường lối quốc phòng, an ninh của Đảng và Nhà nước",
+      "Kỹ thuật bắn súng",
+      "Chiến thuật cấp đại đội",
+      "Điều lệnh đội ngũ"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 110,
+    "chapter": 1,
+    "question": "Học phần 2 chủ yếu gắn với nội dung nào?",
+    "options": [
+      "Kỹ thuật chiến đấu",
+      "Công tác quốc phòng, an ninh",
+      "Thể lực quân sự",
+      "Kinh doanh quốc phòng"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 111,
+    "chapter": 1,
+    "question": "Học phần 3 chủ yếu cung cấp kiến thức gì?",
+    "options": [
+      "Ngoại giao kinh tế",
+      "Kinh tế quân sự",
+      "Quân sự chung",
+      "An ninh mạng"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 112,
+    "chapter": 1,
+    "question": "Học phần 4 chủ yếu rèn luyện kỹ năng gì?",
+    "options": [
+      "Quản trị tài chính",
+      "Kỹ thuật tin học",
+      "Ngoại ngữ quân sự",
+      "Kỹ thuật bắn súng và chiến thuật"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 113,
+    "chapter": 1,
+    "question": "Chương trình GDQP-AN tại đại học gắn trách nhiệm nào của sinh viên?",
+    "options": [
+      "Thực hiện nghĩa vụ quốc phòng, an ninh",
+      "Miễn toàn bộ nghĩa vụ công dân",
+      "Chỉ học chuyên ngành",
+      "Chỉ tham gia thể thao"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 114,
+    "chapter": 1,
+    "question": "Giá trị cốt lõi GDQP-AN đối với sinh viên là gì?",
+    "options": [
+      "Chỉ biết sử dụng vũ khí",
+      "Biết tự bảo vệ Tổ quốc và tham gia bảo vệ an ninh",
+      "Chỉ tăng sức khỏe",
+      "Chỉ nắm lịch sử"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 115,
+    "chapter": 1,
+    "question": "Nghiên cứu GDQP-AN cần vận dụng quan điểm nào?",
+    "options": [
+      "Quan điểm cá nhân",
+      "Quan điểm tuyệt đối hóa một lực lượng",
+      "Quan điểm toàn dân, toàn diện và bám sát thực tiễn",
+      "Quan điểm tách rời kinh tế"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 116,
+    "chapter": 1,
+    "question": "Học tập GDQP-AN cần kết hợp kiến thức lý luận với hoạt động nào?",
+    "options": [
+      "Chỉ tranh luận",
+      "Chỉ đọc tài liệu",
+      "Chỉ thi trắc nghiệm",
+      "Đào tạo thực hành và thực tập"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 117,
+    "chapter": 1,
+    "question": "GDQP-AN góp phần định hướng cho sinh viên điều gì?",
+    "options": [
+      "Nhận thức đầy đủ và hành động đúng trong bảo vệ Tổ quốc",
+      "Chỉ chấp hành nội quy trường",
+      "Chỉ phát triển chuyên môn",
+      "Chỉ rèn thể lực"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 118,
+    "chapter": 1,
+    "question": "Đề cương GDQP-AN là cơ sở để sinh viên làm gì?",
+    "options": [
+      "Đổi chuyên ngành",
+      "Hệ thống kiến thức và kỹ năng theo yêu cầu môn học",
+      "Miễn học phần",
+      "Thay giáo trình"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 119,
+    "chapter": 1,
+    "question": "Đánh giá kết quả học GDQP-AN cần căn cứ vào đâu?",
+    "options": [
+      "Chỉ điểm thi lý thuyết",
+      "Chỉ sức khỏe",
+      "Kiến thức lý luận, kỹ năng thực hành và ý thức học tập",
+      "Chỉ kết quả chuyên ngành"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 120,
+    "chapter": 1,
+    "question": "Mục tiêu chung của GDQP-AN là gì?",
+    "options": [
+      "Tạo lực lượng du kích thường trực",
+      "Thay thế quân đội",
+      "Chỉ rèn thể lực",
+      "Xây dựng lòng yêu nước, phẩm chất và năng lực bảo vệ Tổ quốc"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 121,
+    "chapter": 2,
+    "question": "Chiến tranh theo quan điểm Mác – Lênin là gì?",
+    "options": [
+      "Một hiện tượng kinh tế thuần túy",
+      "Một hiện tượng chính trị – xã hội",
+      "Một quy luật thiên nhiên",
+      "Một hoạt động văn hóa"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 122,
+    "chapter": 2,
+    "question": "Nguyên nhân sâu xa của chiến tranh mang tính giai cấp là gì?",
+    "options": [
+      "Thay đổi thời tiết",
+      "Chênh lệch dân số",
+      "Mâu thuẫn kinh tế và chính trị trong xã hội",
+      "Yếu tố địa hình"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 123,
+    "chapter": 2,
+    "question": "Bảo vệ Tổ quốc là nhiệm vụ của ai?",
+    "options": [
+      "Riêng lực lượng vũ trang",
+      "Riêng cơ quan Nhà nước",
+      "Riêng thanh niên",
+      "Toàn dân tộc"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 124,
+    "chapter": 2,
+    "question": "Quân đội nhân dân Việt Nam là lực lượng của ai?",
+    "options": [
+      "Nhân dân, do Đảng Cộng sản Việt Nam lãnh đạo",
+      "Một tổ chức kinh tế",
+      "Một tổ chức tôn giáo",
+      "Một cơ quan tư nhân"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 125,
+    "chapter": 2,
+    "question": "Quân đội nhân dân có tính chất gì?",
+    "options": [
+      "Tư nhân, phi chính trị",
+      "Nhân dân, chính trị, cách mạng",
+      "Chỉ kỹ thuật",
+      "Chỉ kinh tế"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 126,
+    "chapter": 2,
+    "question": "Chức năng đội quân chiến đấu của Quân đội nhân dân là gì?",
+    "options": [
+      "Chỉ quản lý hành chính",
+      "Chỉ nghiên cứu khoa học",
+      "Sẵn sàng chiến đấu bảo vệ Tổ quốc",
+      "Chỉ sản xuất hàng hóa"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 127,
+    "chapter": 2,
+    "question": "Chức năng đội quân công tác của Quân đội nhân dân là gì?",
+    "options": [
+      "Chỉ bảo vệ văn phòng",
+      "Chỉ huấn luyện thể thao",
+      "Chỉ quản lý tài chính",
+      "Thực hiện các nhiệm vụ kinh tế, chính trị, xã hội"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 128,
+    "chapter": 2,
+    "question": "Chức năng đội quân lao động sản xuất của Quân đội nhân dân là gì?",
+    "options": [
+      "Lao động, sản xuất và xây dựng kinh tế",
+      "Chỉ tham gia biểu diễn",
+      "Chỉ thực hiện công tác ngoại giao",
+      "Chỉ huấn luyện dân quân"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 129,
+    "chapter": 2,
+    "question": "Xây dựng quân đội cần coi trọng nội dung nào?",
+    "options": [
+      "Chỉ trang bị",
+      "Chính trị, tổ chức, huấn luyện và trang bị",
+      "Chỉ số lượng",
+      "Chỉ tuổi quân nhân"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 130,
+    "chapter": 2,
+    "question": "Nguyên tắc chỉ huy quân đội Việt Nam là gì?",
+    "options": [
+      "Tự do hoạt động",
+      "Chỉ nhà nước lãnh đạo",
+      "Đảng lãnh đạo tuyệt đối, trực tiếp về mọi mặt",
+      "Chỉ cấp chỉ huy địa phương"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 131,
+    "chapter": 2,
+    "question": "Vai trò của chính trị – tinh thần trong chiến đấu là gì?",
+    "options": [
+      "Thay thế trang bị",
+      "Loại bỏ huấn luyện",
+      "Chỉ làm tăng sĩ số",
+      "Tăng sức mạnh, bản lĩnh và ý chí chiến thắng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 132,
+    "chapter": 2,
+    "question": "Công cuộc bảo vệ Tổ quốc cần đối sách nào?",
+    "options": [
+      "Kiên quyết, kiên trì, linh hoạt và sáng tạo",
+      "Cứng nhắc",
+      "Thụ động",
+      "Đơn phương"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 133,
+    "chapter": 2,
+    "question": "Quân đội nhân dân là lực lượng nòng cốt thực hiện nhiệm vụ gì?",
+    "options": [
+      "Quản lý kinh tế tư nhân",
+      "Quốc phòng và bảo vệ Tổ quốc",
+      "Xây dựng trường học",
+      "Đấu tranh văn hóa"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 134,
+    "chapter": 2,
+    "question": "Quan hệ giữa quân đội và nhân dân là quan hệ gì?",
+    "options": [
+      "Lệnh hành và đối lập",
+      "Không liên quan",
+      "Đoàn kết máu thịt",
+      "Chỉ khi chiến tranh"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 135,
+    "chapter": 2,
+    "question": "Xây dựng sức mạnh quân đội phải dựa trên yếu tố nào?",
+    "options": [
+      "Chỉ trang bị hiện đại",
+      "Chỉ số lượng",
+      "Chỉ hợp đồng quốc tế",
+      "Tư tưởng chính trị, tổ chức, trang bị và huấn luyện"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 136,
+    "chapter": 2,
+    "question": "Lực lượng vũ trang là công cụ của ai?",
+    "options": [
+      "Nhà nước và Đảng Cộng sản Việt Nam",
+      "Một tổ chức chính trị đối lập",
+      "Doanh nghiệp tư nhân",
+      "Tổ chức tôn giáo"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 137,
+    "chapter": 2,
+    "question": "Chiến tranh nhân dân bảo vệ Tổ quốc là chiến tranh vì mục tiêu gì?",
+    "options": [
+      "Mở rộng thị trường",
+      "Độc lập, tự do và chủ quyền dân tộc",
+      "Chiếm tài nguyên nước ngoài",
+      "Thay đổi sắc tộc"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 138,
+    "chapter": 2,
+    "question": "Tư duy phòng thủ hiện đại chú trọng điều gì?",
+    "options": [
+      "Chỉ phòng thủ sau khi bị tấn công",
+      "Chỉ sử dụng quân sự",
+      "Phòng ngừa sớm, kết hợp sức mạnh quốc gia",
+      "Chỉ sử dụng ngoại giao"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 139,
+    "chapter": 2,
+    "question": "Yếu tố con người trong sức mạnh quân đội thể hiện ở đâu?",
+    "options": [
+      "Chỉ chiều cao",
+      "Chỉ tuổi đời",
+      "Chỉ nguồn gốc",
+      "Ý chí, phẩm chất, trình độ và kỷ luật"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 140,
+    "chapter": 2,
+    "question": "Bảo vệ Tổ quốc gắn liền với trách nhiệm nào của công dân?",
+    "options": [
+      "Bổn phận, nghĩa vụ và đóng góp cho quốc phòng, an ninh",
+      "Chỉ hưởng lợi ích",
+      "Chỉ tham gia biểu quyết",
+      "Chỉ nộp thuế"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 141,
+    "chapter": 3,
+    "question": "Luật Quốc phòng quy định quốc phòng là nhiệm vụ của ai?",
+    "options": [
+      "Riêng quân đội",
+      "Riêng bộ quốc phòng",
+      "Cả hệ thống chính trị và toàn dân",
+      "Riêng địa phương"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 142,
+    "chapter": 3,
+    "question": "Nền quốc phòng toàn dân có đặc trưng cơ bản nào?",
+    "options": [
+      "Chỉ quân đội",
+      "Chỉ lực lượng thường trực",
+      "Chỉ huy động chiến tranh",
+      "Toàn dân, toàn diện, độc lập, tự chủ"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 143,
+    "chapter": 3,
+    "question": "An ninh nhân dân là công cuộc của ai?",
+    "options": [
+      "Toàn dân",
+      "Chỉ công an",
+      "Chỉ cơ quan tình báo",
+      "Chỉ quân đội"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 144,
+    "chapter": 3,
+    "question": "Thế trận quốc phòng toàn dân gắn với điều gì?",
+    "options": [
+      "Thế trận kinh tế duy nhất",
+      "Thế trận an ninh nhân dân",
+      "Thế trận tuyên truyền",
+      "Thế trận thể thao"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 145,
+    "chapter": 3,
+    "question": "Tiềm lực quốc phòng bao gồm yếu tố nào?",
+    "options": [
+      "Chỉ súng đạn",
+      "Chỉ nhân lực",
+      "Con người, vật chất, tài chính và tổ chức",
+      "Chỉ ngân sách"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 146,
+    "chapter": 3,
+    "question": "Tiềm lực chính trị – tinh thần thể hiện ở đâu?",
+    "options": [
+      "Chỉ trang bị",
+      "Chỉ biên chế",
+      "Chỉ địa hình",
+      "Ý chí, niềm tin, tinh thần đoàn kết"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 147,
+    "chapter": 3,
+    "question": "Tiềm lực kinh tế là cơ sở để làm gì?",
+    "options": [
+      "Cung cấp nguồn lực cho quốc phòng, an ninh",
+      "Chỉ xuất khẩu",
+      "Chỉ thu thuế",
+      "Chỉ tiêu dùng"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 148,
+    "chapter": 3,
+    "question": "Tiềm lực khoa học – công nghệ có vai trò gì?",
+    "options": [
+      "Chỉ làm đẹp",
+      "Nâng cao trình độ phát triển vũ khí và công nghệ quốc phòng",
+      "Chỉ quản lý nhân sự",
+      "Chỉ xây dựng nhà cửa"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 149,
+    "chapter": 3,
+    "question": "Vai trò nòng cốt trong quốc phòng toàn dân thuộc về ai?",
+    "options": [
+      "Doanh nghiệp tư nhân",
+      "Sinh viên",
+      "Lực lượng vũ trang nhân dân",
+      "Người lao động tự do"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 150,
+    "chapter": 3,
+    "question": "Hình thành thế trận quốc phòng cần căn cứ vào đâu?",
+    "options": [
+      "Chỉ dân số",
+      "Chỉ lợi nhuận",
+      "Chỉ khí hậu",
+      "Địa bàn, dân cư, điều kiện kinh tế và yêu cầu quốc phòng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 151,
+    "chapter": 3,
+    "question": "Quốc phòng toàn dân phối hợp với an ninh nhân dân nhằm mục đích gì?",
+    "options": [
+      "Bảo vệ độc lập, chủ quyền và trật tự an toàn xã hội",
+      "Chỉ phát triển du lịch",
+      "Chỉ tăng trưởng kinh tế",
+      "Chỉ tăng dân số"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 152,
+    "chapter": 3,
+    "question": "Bảo vệ Tổ quốc trong thời bình được chuẩn bị bằng cách nào?",
+    "options": [
+      "Chỉ chờ nguy cơ xảy ra",
+      "Xây dựng tiềm lực và thế trận từ sớm",
+      "Chỉ mua vũ khí",
+      "Chỉ huấn luyện ngắn hạn"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 153,
+    "chapter": 3,
+    "question": "Cơ sở vật chất cho quốc phòng được xây dựng theo hướng nào?",
+    "options": [
+      "Chỉ quân dụng",
+      "Chỉ dân dụng",
+      "Dân dụng gắn quân dụng",
+      "Chỉ nhập khẩu"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 154,
+    "chapter": 3,
+    "question": "Lãnh đạo nền quốc phòng thuộc về ai?",
+    "options": [
+      "Doanh nghiệp",
+      "Tổ chức xã hội",
+      "Quân đội riêng",
+      "Đảng Cộng sản Việt Nam"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 155,
+    "chapter": 3,
+    "question": "Quản lý nhà nước về quốc phòng thuộc về ai?",
+    "options": [
+      "Nhà nước",
+      "Riêng Đảng",
+      "Riêng địa phương",
+      "Riêng quân nhân"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 156,
+    "chapter": 3,
+    "question": "Xây dựng nền quốc phòng toàn dân là nhiệm vụ của ai?",
+    "options": [
+      "Chỉ lực lượng vũ trang",
+      "Cả hệ thống chính trị và toàn dân",
+      "Chỉ Chính phủ",
+      "Chỉ địa phương"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 157,
+    "chapter": 3,
+    "question": "Nền quốc phòng toàn dân cần phối hợp kinh tế – xã hội để làm gì?",
+    "options": [
+      "Chỉ tăng thu ngân sách",
+      "Chỉ mở rộng thị trường",
+      "Tạo sức mạnh tổng hợp lâu dài",
+      "Chỉ xây dựng cơ sở"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 158,
+    "chapter": 3,
+    "question": "Sức mạnh quốc phòng – an ninh có nguồn gốc từ đâu?",
+    "options": [
+      "Chỉ quân đội",
+      "Chỉ công nghệ",
+      "Chỉ tài chính",
+      "Sức mạnh tổng hợp của toàn dân tộc"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 159,
+    "chapter": 3,
+    "question": "Xây dựng hậu phương vững mạnh nhằm mục đích gì?",
+    "options": [
+      "Đảm bảo hoạt động quốc phòng và phát triển đất nước",
+      "Chỉ bố trí quân đội",
+      "Chỉ huy động nhân lực",
+      "Chỉ xây trụ sở"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 160,
+    "chapter": 3,
+    "question": "Biện pháp bảo vệ an ninh quốc gia là trách nhiệm của ai?",
+    "options": [
+      "Chỉ công an",
+      "Toàn dân và toàn hệ thống chính trị",
+      "Chỉ sinh viên",
+      "Chỉ doanh nghiệp"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 161,
+    "chapter": 4,
+    "question": "Chiến tranh nhân dân bảo vệ Tổ quốc có đặc trưng cơ bản nào?",
+    "options": [
+      "Chỉ quân đội",
+      "Chỉ công nghệ",
+      "Chỉ ngoại giao",
+      "Toàn dân, toàn diện, lấy lực lượng vũ trang làm nòng cốt"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 162,
+    "chapter": 4,
+    "question": "Nguyên tắc bảo vệ Tổ quốc là gì?",
+    "options": [
+      "Chủ động phòng ngừa và chống giặc từ sớm, từ xa",
+      "Chỉ phòng thủ khi bị tấn công",
+      "Chỉ viện ngoại",
+      "Chỉ nhờ hòa bình"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 163,
+    "chapter": 4,
+    "question": "Chiến tranh nhân dân kết hợp những mặt đấu tranh nào?",
+    "options": [
+      "Chỉ quân sự",
+      "Quân sự, chính trị, kinh tế, văn hóa, ngoại giao",
+      "Chỉ kinh tế",
+      "Chỉ ngoại giao"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 164,
+    "chapter": 4,
+    "question": "Vai trò chủ thể của nhân dân thể hiện ở đâu?",
+    "options": [
+      "Nhân dân đứng ngoài cuộc",
+      "Chỉ quan sát",
+      "Nhân dân tham gia xây dựng và thực hiện bảo vệ Tổ quốc",
+      "Chỉ đóng thuế"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 165,
+    "chapter": 4,
+    "question": "Lực lượng nòng cốt trong chiến tranh nhân dân là gì?",
+    "options": [
+      "Đoàn thể văn hóa",
+      "Doanh nghiệp tư nhân",
+      "Sinh viên",
+      "Lực lượng vũ trang nhân dân"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 166,
+    "chapter": 4,
+    "question": "Chiến tranh nhân dân cần huy động tiềm lực ở đâu?",
+    "options": [
+      "Trên toàn quốc và mọi tầng lớp dân cư",
+      "Chỉ khu vực thành thị",
+      "Chỉ đơn vị quân đội",
+      "Chỉ một vùng"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 167,
+    "chapter": 4,
+    "question": "Bảo đảm hậu cần trong chiến tranh nhân dân dựa trên điều gì?",
+    "options": [
+      "Chỉ viện trợ nước ngoài",
+      "Cơ sở vật chất và tiềm lực toàn dân",
+      "Chỉ kho quân đội",
+      "Chỉ một thành phố"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 168,
+    "chapter": 4,
+    "question": "Kháng chiến gắn với xây dựng thể hiện yêu cầu gì?",
+    "options": [
+      "Chỉ ngừng phát triển",
+      "Chỉ tập trung tấn công",
+      "Vừa kháng chiến vừa phát triển đất nước",
+      "Chỉ trông chờ hòa ước"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 169,
+    "chapter": 4,
+    "question": "Thế trận chiến tranh nhân dân là hình thức tổ chức nào?",
+    "options": [
+      "Tập trung một nơi",
+      "Chỉ ở biên giới",
+      "Chỉ ở đô thị",
+      "Sâu rộng, liên tục và toàn dân"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 170,
+    "chapter": 4,
+    "question": "Trọng tâm của phòng thủ dân sự là gì?",
+    "options": [
+      "Giảm thiệt hại, bảo vệ dân cư và cơ sở vật chất",
+      "Chỉ phát triển quân đội",
+      "Chỉ xây công sự",
+      "Chỉ huấn luyện sĩ quan"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 171,
+    "chapter": 4,
+    "question": "Khi chiến tranh xảy ra, sự chỉ đạo cần bảo đảm điều gì?",
+    "options": [
+      "Tách rời các lực lượng",
+      "Thống nhất, linh hoạt và kịp thời",
+      "Chỉ tập trung quân sự",
+      "Chỉ tập trung kinh tế"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 172,
+    "chapter": 4,
+    "question": "Mục tiêu chiến lược của chiến tranh nhân dân là gì?",
+    "options": [
+      "Mở rộng lãnh thổ",
+      "Chiếm thị trường",
+      "Bảo vệ độc lập, chủ quyền và thống nhất lãnh thổ",
+      "Thay đổi thể chế"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 173,
+    "chapter": 4,
+    "question": "Địa hình ở Việt Nam tạo thuận lợi cho hình thức nào?",
+    "options": [
+      "Chiến tranh cơ giới thuần túy",
+      "Đánh nhanh ở đô thị",
+      "Chỉ chiến tranh hải quân",
+      "Chiến tranh nhân dân sâu rộng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 174,
+    "chapter": 4,
+    "question": "Tính chất toàn dân của chiến tranh thể hiện ở đâu?",
+    "options": [
+      "Đông đảo nhân dân tham gia mọi lĩnh vực",
+      "Chỉ quân nhân tham gia",
+      "Chỉ thanh niên tham gia",
+      "Chỉ công chức tham gia"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 175,
+    "chapter": 4,
+    "question": "Tính chất toàn diện thể hiện ở việc kết hợp gì?",
+    "options": [
+      "Chỉ quân sự",
+      "Các mặt quân sự, chính trị, kinh tế và xã hội",
+      "Chỉ kinh tế",
+      "Chỉ đối ngoại"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 176,
+    "chapter": 4,
+    "question": "Dân tộc Việt Nam xây dựng sức mạnh chiến tranh trên cơ sở nào?",
+    "options": [
+      "Chỉ công nghệ",
+      "Chỉ tài nguyên",
+      "Truyền thống yêu nước, đoàn kết và tinh thần kiên cường",
+      "Chỉ viện trợ"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 177,
+    "chapter": 4,
+    "question": "Giữ vững an ninh chính trị trong chiến tranh nhằm mục đích gì?",
+    "options": [
+      "Chỉ tăng quân số",
+      "Chỉ kiểm soát kinh tế",
+      "Chỉ bảo vệ cơ sở",
+      "Ngăn âm mưu bạo loạn và duy trì trật tự"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 178,
+    "chapter": 4,
+    "question": "Chiến tranh nhân dân đòi hỏi phương châm tác chiến nào?",
+    "options": [
+      "Kết hợp chủ động, linh hoạt và tập trung sức mạnh",
+      "Chỉ đánh phân tán",
+      "Chỉ phòng thủ thụ động",
+      "Chỉ dựa vào viện binh"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 179,
+    "chapter": 4,
+    "question": "Vai trò của đối ngoại trong chiến tranh nhân dân là gì?",
+    "options": [
+      "Cô lập Việt Nam",
+      "Tranh thủ tình đoàn kết quốc tế",
+      "Chỉ ký hiệp định thương mại",
+      "Chỉ nhập khẩu vũ khí"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 180,
+    "chapter": 4,
+    "question": "Nguyên tắc phát huy sức mạnh tổng hợp yêu cầu điều gì?",
+    "options": [
+      "Chỉ huy động quân đội",
+      "Chỉ huy động dân quân",
+      "Phối hợp chặt chẽ các lực lượng và tiềm lực",
+      "Chỉ phụ thuộc công nghệ"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 181,
+    "chapter": 5,
+    "question": "Lực lượng Dân quân tự vệ thuộc thành phần nào?",
+    "options": [
+      "Lực lượng vũ trang nhân dân",
+      "Lực lượng công an chuyên trách",
+      "Lực lượng thường trực",
+      "Lực lượng đối ngoại"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 182,
+    "chapter": 5,
+    "question": "Quân đội nhân dân là lực lượng giữ vai trò gì?",
+    "options": [
+      "Lực lượng dân phòng",
+      "Nòng cốt của lực lượng vũ trang nhân dân",
+      "Cơ quan tài chính",
+      "Cơ quan đối ngoại"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 183,
+    "chapter": 5,
+    "question": "Công an nhân dân giữ vai trò nòng cốt trong công tác nào?",
+    "options": [
+      "Chiến tranh hạt nhân",
+      "Ngoại thương",
+      "An ninh quốc gia và bảo đảm trật tự",
+      "Giáo dục đại học"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 184,
+    "chapter": 5,
+    "question": "Dân quân tự vệ không thoát ly khỏi điều gì?",
+    "options": [
+      "Binh chế quân đội",
+      "Đơn vị công an",
+      "Nghĩa vụ lao động",
+      "Sản xuất và công tác"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 185,
+    "chapter": 5,
+    "question": "Quân nhân dự bị là thành phần của lực lượng nào?",
+    "options": [
+      "Dự bị động viên",
+      "Thường trực",
+      "Công an",
+      "Quân đội thường trực"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 186,
+    "chapter": 5,
+    "question": "Xây dựng quân đội chính quy nhằm mục tiêu nào?",
+    "options": [
+      "Chỉ tăng số lượng",
+      "Nền nếp, kỷ luật, tổ chức thống nhất",
+      "Chỉ tăng lương",
+      "Chỉ thay trang bị"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 187,
+    "chapter": 5,
+    "question": "Xây dựng quân đội tinh nhuệ chú trọng điều gì?",
+    "options": [
+      "Chỉ số lượng",
+      "Chỉ hình thức",
+      "Chất lượng và năng lực hoàn thành nhiệm vụ",
+      "Chỉ tuổi quân nhân"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 188,
+    "chapter": 5,
+    "question": "Hiện đại hóa quân đội gắn với yêu cầu gì?",
+    "options": [
+      "Chỉ mua thiết bị",
+      "Chỉ xây doanh trại",
+      "Chỉ tăng quân số",
+      "Trang bị, tổ chức và trình độ sẵn sàng chiến đấu"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 189,
+    "chapter": 5,
+    "question": "Xây dựng lực lượng dự bị cần chú trọng nội dung nào?",
+    "options": [
+      "Quản lý hồ sơ, huấn luyện và điều động",
+      "Chỉ có danh sách",
+      "Chỉ đóng quân",
+      "Chỉ trang bị"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 190,
+    "chapter": 5,
+    "question": "Lực lượng dân quân tự vệ được tổ chức phổ biến ở đâu?",
+    "options": [
+      "Chỉ bộ quốc phòng",
+      "Thôn, xã, cơ quan và xí nghiệp",
+      "Chỉ đô thị lớn",
+      "Chỉ vùng biên"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 191,
+    "chapter": 5,
+    "question": "Dân quân tự vệ biển có nhiệm vụ tại địa bàn nào?",
+    "options": [
+      "Nội địa",
+      "Miền núi",
+      "Khu vực biển, đảo",
+      "Thủ đô"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 192,
+    "chapter": 5,
+    "question": "Dân quân tự vệ tại chỗ có đặc điểm gì?",
+    "options": [
+      "Thoát ly địa bàn",
+      "Chỉ chiến đấu xa",
+      "Chỉ làm công tác hậu cần",
+      "Sống và hoạt động trên địa bàn cơ sở"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 193,
+    "chapter": 5,
+    "question": "Quân đội nhân dân có chức năng lao động sản xuất nhằm mục đích gì?",
+    "options": [
+      "Kết hợp xây dựng quân đội với phát triển kinh tế",
+      "Chỉ kiếm thu nhập",
+      "Chỉ thay thế công nhân",
+      "Chỉ làm nông nghiệp"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 194,
+    "chapter": 5,
+    "question": "Công an nhân dân thực hiện nhiệm vụ bảo vệ điều gì?",
+    "options": [
+      "Chỉ quốc phòng",
+      "An ninh quốc gia và trật tự an toàn xã hội",
+      "Chỉ tài chính",
+      "Chỉ ngoại giao"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 195,
+    "chapter": 5,
+    "question": "Nguyên tắc tập trung dân chủ trong lực lượng vũ trang thể hiện ở đâu?",
+    "options": [
+      "Tự do không tổ chức",
+      "Chỉ dân chủ",
+      "Chấp hành thống nhất trong tổ chức và chỉ huy",
+      "Chỉ tập trung"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 196,
+    "chapter": 5,
+    "question": "Dự bị động viên là nguồn lực để làm gì?",
+    "options": [
+      "Thay thế quân đội",
+      "Chỉ tham gia thể thao",
+      "Chỉ quản lý dân cư",
+      "Bổ sung cho lực lượng thường trực khi cần"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 197,
+    "chapter": 5,
+    "question": "Phương châm xây dựng dân quân tự vệ là gì?",
+    "options": [
+      "Vững mạnh, rộng khắp, coi trọng chất lượng",
+      "Chỉ rộng khắp",
+      "Chỉ số lượng",
+      "Chỉ tại doanh trại"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 198,
+    "chapter": 5,
+    "question": "Lực lượng vũ trang nhân dân đặt dưới sự quản lý của ai?",
+    "options": [
+      "Doanh nghiệp",
+      "Nhà nước",
+      "Tổ chức quốc tế",
+      "Một cá nhân"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 199,
+    "chapter": 5,
+    "question": "Chất lượng dân quân tự vệ được thể hiện ở đâu?",
+    "options": [
+      "Chỉ trang phục",
+      "Chỉ tuổi đời",
+      "Đào tạo, kỷ luật, sức khỏe và sẵn sàng nhiệm vụ",
+      "Chỉ số lượng"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 200,
+    "chapter": 5,
+    "question": "Xây dựng lực lượng dự bị động viên có ý nghĩa gì?",
+    "options": [
+      "Giảm quân số",
+      "Chỉ xây kho",
+      "Chỉ thay thế công an",
+      "Tăng khả năng huy động và đáp ứng tình huống quốc phòng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 201,
+    "chapter": 6,
+    "question": "Kết hợp kinh tế – xã hội với quốc phòng – an ninh nhằm mục tiêu nào?",
+    "options": [
+      "Chỉ phát triển kinh tế",
+      "Phát triển đất nước gắn bảo vệ Tổ quốc",
+      "Chỉ tăng quân số",
+      "Chỉ bảo vệ biên giới"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 202,
+    "chapter": 6,
+    "question": "Kinh tế quốc phòng là lĩnh vực gắn liên kinh tế với hoạt động nào?",
+    "options": [
+      "Văn hóa",
+      "Giáo dục",
+      "Quốc phòng",
+      "Y tế"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 203,
+    "chapter": 6,
+    "question": "Xây dựng chiến lược kinh tế cần tính đến yêu cầu nào?",
+    "options": [
+      "Chỉ lợi nhuận",
+      "Chỉ dân số",
+      "Chỉ nguồn vốn",
+      "Quốc phòng, an ninh và đặc điểm địa phương"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 204,
+    "chapter": 6,
+    "question": "Nhà nước có vai trò gì trong phối hợp kinh tế và quốc phòng?",
+    "options": [
+      "Quản lý, quy hoạch và chỉ đạo thực hiện",
+      "Chỉ công an thực hiện",
+      "Chỉ quân đội thực hiện",
+      "Chỉ doanh nghiệp quyết định"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 205,
+    "chapter": 6,
+    "question": "Quy hoạch vùng phải chú ý điều kiện nào?",
+    "options": [
+      "Chỉ dân số",
+      "Địa lý, dân cư, kinh tế và quốc phòng",
+      "Chỉ diện tích",
+      "Chỉ tài nguyên"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 206,
+    "chapter": 6,
+    "question": "Công trình hạ tầng chiến lược cần đáp ứng yêu cầu gì?",
+    "options": [
+      "Chỉ mỹ quan",
+      "Chỉ lợi nhuận",
+      "Phát triển kinh tế và khả năng quốc phòng",
+      "Chỉ dân dụng"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 207,
+    "chapter": 6,
+    "question": "Hội nhập kinh tế quốc tế cần gắn với điều gì?",
+    "options": [
+      "Chỉ mở cửa",
+      "Chỉ thu hút vốn",
+      "Chỉ nhập khẩu",
+      "Độc lập, chủ quyền và lợi ích quốc gia"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 208,
+    "chapter": 6,
+    "question": "Đối ngoại Việt Nam theo nguyên tắc nào?",
+    "options": [
+      "Độc lập, tự chủ, hòa bình và hợp tác",
+      "Bành trướng",
+      "Cô lập",
+      "Dựa hẳn vào nước lớn"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 209,
+    "chapter": 6,
+    "question": "Giải quyết tranh chấp quốc tế ưu tiên phương thức nào?",
+    "options": [
+      "Can thiệp quân sự trước",
+      "Hòa bình, phù hợp luật pháp quốc tế",
+      "Đơn phương",
+      "Cấm đối thoại"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 210,
+    "chapter": 6,
+    "question": "Kinh tế biển cần gắn với yêu cầu gì?",
+    "options": [
+      "Chỉ khai thác tài nguyên",
+      "Chỉ du lịch",
+      "Phát triển kinh tế và bảo vệ chủ quyền biển, đảo",
+      "Chỉ giao thương"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 211,
+    "chapter": 6,
+    "question": "Kinh tế biên giới cần chú trọng điều gì?",
+    "options": [
+      "Chỉ thu thuế",
+      "Chỉ kiểm soát người",
+      "Chỉ tập trung quân đội",
+      "Xây dựng khu vực ổn định, phát triển và bảo vệ biên giới"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 212,
+    "chapter": 6,
+    "question": "Tăng cường tiềm lực quốc phòng gắn với kinh tế nhằm mục đích gì?",
+    "options": [
+      "Duy trì khả năng phòng thủ và phát triển",
+      "Chỉ chi tiêu quân sự",
+      "Chỉ nhập khẩu",
+      "Chỉ tăng thuế"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 213,
+    "chapter": 6,
+    "question": "Đảng có vai trò gì trong kết hợp kinh tế – quốc phòng?",
+    "options": [
+      "Chỉ giám sát tài chính",
+      "Lãnh đạo, định hướng và thống nhất chủ trương",
+      "Chỉ quản lý doanh nghiệp",
+      "Chỉ chỉ huy quân đội"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 214,
+    "chapter": 6,
+    "question": "Chính quyền địa phương cần thực hiện điều gì?",
+    "options": [
+      "Chỉ quyết định riêng",
+      "Chỉ thu ngân sách",
+      "Tổ chức triển khai quy hoạch phù hợp địa bàn",
+      "Chỉ huy động quân sự"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 215,
+    "chapter": 6,
+    "question": "Doanh nghiệp trong kết hợp kinh tế – quốc phòng có thể làm gì?",
+    "options": [
+      "Chỉ kinh doanh du lịch",
+      "Chỉ thuê đất",
+      "Chỉ trả thuế",
+      "Chuẩn bị sản xuất và cung ứng khi có yêu cầu"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 216,
+    "chapter": 6,
+    "question": "Bảo đảm hậu cần trong thời bình cần chuẩn bị yếu tố nào?",
+    "options": [
+      "Nguồn lực, thiết bị, kho tàng và tổ chức",
+      "Chỉ súng đạn",
+      "Chỉ nhiên liệu",
+      "Chỉ nhân lực"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 217,
+    "chapter": 6,
+    "question": "Hợp tác quốc tế về quốc phòng cần đặt trên nguyên tắc nào?",
+    "options": [
+      "Chi phối",
+      "Tôn trọng độc lập, chủ quyền và lợi ích",
+      "Bài trừ",
+      "Liên minh quân sự bắt buộc"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 218,
+    "chapter": 6,
+    "question": "Phát triển khoa học công nghệ quốc phòng cần gắn với điều gì?",
+    "options": [
+      "Chỉ nhập khẩu",
+      "Chỉ nghiên cứu lý thuyết",
+      "Nhu cầu thực tiễn và tiềm lực trong nước",
+      "Chỉ đầu tư ngắn hạn"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 219,
+    "chapter": 6,
+    "question": "An ninh kinh tế gắn với bảo vệ điều gì?",
+    "options": [
+      "Chỉ tiền mặt",
+      "Chỉ doanh nghiệp",
+      "Chỉ ngân hàng",
+      "Hệ thống tài chính, sản xuất, dữ liệu và nguồn lực"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 220,
+    "chapter": 6,
+    "question": "Hòa bình, hữu nghị và hợp tác là môi trường để làm gì?",
+    "options": [
+      "Phát triển kinh tế và bảo vệ Tổ quốc lâu dài",
+      "Chỉ tăng quân số",
+      "Chỉ tập trung phòng thủ",
+      "Chỉ tăng thuế"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 221,
+    "chapter": 7,
+    "question": "Nghệ thuật quân sự Việt Nam được hình thành từ điều kiện nào?",
+    "options": [
+      "Chỉ công nghệ",
+      "Chỉ địa hình",
+      "Lịch sử, địa lý, chính trị và văn hóa dân tộc",
+      "Chỉ kinh tế"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 222,
+    "chapter": 7,
+    "question": "Truyền thống đánh giặc giữ nước nổi bật ở Việt Nam là gì?",
+    "options": [
+      "Chỉ đánh quyết chiến",
+      "Chỉ sử dụng bộ binh",
+      "Chỉ trông chờ viện binh",
+      "Chiến tranh nhân dân, toàn dân đánh giặc"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 223,
+    "chapter": 7,
+    "question": "Chiến thắng Bạch Đằng năm 938 kết thúc thời kỳ nào?",
+    "options": [
+      "Hơn một nghìn năm Bắc thuộc",
+      "Chiến tranh Đông Dương",
+      "Kháng chiến chống Mỹ",
+      "Kháng chiến chống Pháp"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 224,
+    "chapter": 7,
+    "question": "Ngô Quyền dùng kế sách gì ở Bạch Đằng?",
+    "options": [
+      "Tấn công đường không",
+      "Cắm cọc ngầm và lợi dụng thủy triều",
+      "Bao vây pháo đài",
+      "Cản bằng tường thành"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 225,
+    "chapter": 7,
+    "question": "Nhà Trần tổ chức Hội nghị Diên Hồng để làm gì?",
+    "options": [
+      "Xây dựng luật hôn nhân",
+      "Tuyển quan đại thần",
+      "Tìm ý kiến về quyết tâm đánh giặc",
+      "Mở trường học"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 226,
+    "chapter": 7,
+    "question": "Lý Thường Kiệt chủ trương chủ động tiến công để đạt mục tiêu gì?",
+    "options": [
+      "Chỉ kéo dài chiến tranh",
+      "Chỉ phòng thủ",
+      "Chỉ can thiệp ngoại giao",
+      "Bảo vệ chủ động và tránh bị động"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 227,
+    "chapter": 7,
+    "question": "Nguyễn Trãi trong Bình Ngô Đại Cáo nhấn mạnh điều gì?",
+    "options": [
+      "Chính nghĩa và độc lập dân tộc",
+      "Chỉ sức mạnh quân sự",
+      "Chỉ tài nguyên",
+      "Chỉ thương mại"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 228,
+    "chapter": 7,
+    "question": "Quang Trung thắng Rạch Gầm – Xoài Mút nhờ điều gì?",
+    "options": [
+      "Chỉ cố thủ",
+      "Tập trung lực lượng và đánh bất ngờ",
+      "Chỉ dùng thủy quân",
+      "Chỉ chờ viện binh"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 229,
+    "chapter": 7,
+    "question": "Mặt trận chính trị trong kháng chiến có vai trò gì?",
+    "options": [
+      "Chỉ huy quân sự",
+      "Chỉ quản lý tài chính",
+      "Đoàn kết nhân dân và xây dựng cơ sở chính trị",
+      "Chỉ tuyển quân"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 230,
+    "chapter": 7,
+    "question": "Mặt trận ngoại giao có vai trò gì?",
+    "options": [
+      "Chỉ buôn bán",
+      "Chỉ ký hiệp thương",
+      "Chỉ điều quân",
+      "Tranh thủ ủng hộ quốc tế và đấu tranh hòa bình"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 231,
+    "chapter": 7,
+    "question": "Nghệ thuật “mưu” trong quân sự là gì?",
+    "options": [
+      "Vận dụng trí tuệ để đánh vào điểm yếu đối phương",
+      "Chỉ lập kế hoạch hành quân",
+      "Chỉ xây doanh trại",
+      "Chỉ kiểm tra quân số"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 232,
+    "chapter": 7,
+    "question": "Nghệ thuật “kế” trong quân sự là gì?",
+    "options": [
+      "Chỉ dùng quân số",
+      "Cách thức hành động nhằm giành thế chủ động",
+      "Chỉ đóng quân",
+      "Chỉ chờ địch"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 233,
+    "chapter": 7,
+    "question": "Kháng chiến chống Pháp kết thúc bằng chiến thắng nào?",
+    "options": [
+      "Chiến thắng Bạch Đằng",
+      "Trận Ngọc Hồi",
+      "Chiến dịch Điện Biên Phủ",
+      "Chiến dịch Biên giới"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 234,
+    "chapter": 7,
+    "question": "Cuộc kháng chiến chống Mỹ kết thúc bằng chiến dịch nào?",
+    "options": [
+      "Chiến dịch Điện Biên Phủ",
+      "Chiến thắng Bạch Đằng",
+      "Chiến dịch Đông Xuân",
+      "Chiến dịch Hồ Chí Minh"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 235,
+    "chapter": 7,
+    "question": "Hiệp định Paris năm 1973 được ký vào ngày nào?",
+    "options": [
+      "27 tháng 1 năm 1973",
+      "30 tháng 4 năm 1975",
+      "7 tháng 5 năm 1954",
+      "2 tháng 9 năm 1945"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 236,
+    "chapter": 7,
+    "question": "Nghệ thuật đánh lớn bại lực lượng nhỏ thể hiện tư tưởng nào?",
+    "options": [
+      "Chỉ đánh trực diện",
+      "Tránh thế mạnh, tập trung đánh yếu",
+      "Chỉ dựa vào số lượng",
+      "Chỉ phòng thủ"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 237,
+    "chapter": 7,
+    "question": "Tinh thần “toàn dân đánh giặc” thể hiện vai trò của ai?",
+    "options": [
+      "Chỉ quân đội",
+      "Chỉ công an",
+      "Nhân dân trong kháng chiến",
+      "Chỉ doanh nghiệp"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 238,
+    "chapter": 7,
+    "question": "Kháng chiến trường kỳ đòi hỏi điều gì?",
+    "options": [
+      "Chỉ đánh nhanh",
+      "Chỉ đầu hàng",
+      "Chỉ viện binh",
+      "Kiên trì, dự trữ lực lượng và tổ chức sâu rộng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 239,
+    "chapter": 7,
+    "question": "Nghệ thuật quân sự Việt Nam coi trọng sức mạnh nào?",
+    "options": [
+      "Sức mạnh tổng hợp của nhân dân và quân đội",
+      "Chỉ kỹ thuật",
+      "Chỉ trang bị",
+      "Chỉ ngoại binh"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 240,
+    "chapter": 7,
+    "question": "Kết hợp quân sự với chính trị, ngoại giao nhằm mục đích gì?",
+    "options": [
+      "Chỉ tuyên truyền",
+      "Tạo ưu thế tổng hợp để giành thắng lợi",
+      "Chỉ ký hiệp định",
+      "Chỉ tăng quân số"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 241,
+    "chapter": 8,
+    "question": "Quốc gia là tổ chức chính trị có những yếu tố cơ bản nào?",
+    "options": [
+      "Chỉ dân cư",
+      "Chỉ lãnh thổ",
+      "Chỉ quân đội",
+      "Lãnh thổ, dân cư và quyền lực công cộng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 242,
+    "chapter": 8,
+    "question": "Chủ quyền quốc gia là quyền làm chủ của ai?",
+    "options": [
+      "Nhà nước đối với lãnh thổ và dân cư",
+      "Mọi tổ chức quốc tế",
+      "Doanh nghiệp",
+      "Cá nhân"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 243,
+    "chapter": 8,
+    "question": "Luật biển Việt Nam quy định vùng biển gồm các vùng nào?",
+    "options": [
+      "Chỉ lãnh hải",
+      "Nội thủy, lãnh hải, vùng tiếp giáp và đặc quyền kinh tế",
+      "Chỉ vùng ven bờ",
+      "Chỉ thềm lục địa"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 244,
+    "chapter": 8,
+    "question": "Hải đảo Việt Nam gồm những loại nào?",
+    "options": [
+      "Chỉ đảo nhân tạo",
+      "Chỉ đảo đá",
+      "Đảo ven bờ và đảo xa bờ",
+      "Chỉ đảo ven lục địa"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 245,
+    "chapter": 8,
+    "question": "Biên giới quốc gia là ranh giới xác định điều gì?",
+    "options": [
+      "Ranh giới kinh tế",
+      "Ranh giới văn hóa",
+      "Ranh giới hành chính",
+      "Lãnh thổ thuộc chủ quyền quốc gia"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 246,
+    "chapter": 8,
+    "question": "Bảo vệ chủ quyền biển, đảo là trách nhiệm của ai?",
+    "options": [
+      "Toàn Đảng, toàn dân, toàn quân",
+      "Chỉ hải quân",
+      "Chỉ hải quan",
+      "Chỉ ngư dân"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 247,
+    "chapter": 8,
+    "question": "Công dân có thể bảo vệ chủ quyền biển, đảo bằng cách nào?",
+    "options": [
+      "Tiếp tay phá hoại",
+      "Tuyên truyền pháp luật và cung cấp thông tin chính xác",
+      "Lan truyền tin thất thiệt",
+      "Tự ý dùng vũ lực"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 248,
+    "chapter": 8,
+    "question": "Khi tranh chấp biển, đảo nên sử dụng biện pháp nào?",
+    "options": [
+      "Vũ lực đơn phương",
+      "Cắt đứt quan hệ",
+      "Hòa bình và luật pháp quốc tế",
+      "Kêu gọi bạo loạn"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 249,
+    "chapter": 8,
+    "question": "Luật pháp quốc tế ghi nhận quyền biển của quốc gia dựa trên điều gì?",
+    "options": [
+      "Sức mạnh quân sự",
+      "Diện tích dân cư",
+      "Thời gian khai thác",
+      "Chủ quyền và công ước quốc tế"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 250,
+    "chapter": 8,
+    "question": "Bảo vệ chủ quyền biên giới cần kết hợp gì?",
+    "options": [
+      "Quản lý, phát triển kinh tế – xã hội và đối ngoại",
+      "Chỉ quân sự",
+      "Chỉ kiểm soát",
+      "Chỉ xây tường"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 251,
+    "chapter": 8,
+    "question": "Xác lập chủ quyền biển đảo dựa trên cơ sở nào?",
+    "options": [
+      "Chỉ tuyên bố",
+      "Căn cứ lịch sử, pháp lý và thực thi chủ quyền",
+      "Chỉ xây dựng",
+      "Chỉ hải quân"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 252,
+    "chapter": 8,
+    "question": "Thông tin sai sự thật về biển, đảo có thể gây hậu quả gì?",
+    "options": [
+      "Chỉ làm tăng du lịch",
+      "Chỉ giúp kinh tế",
+      "Gây hoang mang và ảnh hưởng an ninh",
+      "Chỉ cải thiện quan hệ"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 253,
+    "chapter": 8,
+    "question": "Sinh viên khi tiếp cận thông tin biển đảo cần làm gì?",
+    "options": [
+      "Chia sẻ ngay",
+      "Tin một nguồn",
+      "Chỉ đọc mạng xã hội",
+      "Kiểm chứng nguồn tin và tuân thủ pháp luật"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 254,
+    "chapter": 8,
+    "question": "Bảo vệ tài nguyên biển của Việt Nam cần gắn với điều gì?",
+    "options": [
+      "Quản lý, bảo vệ môi trường và phát triển bền vững",
+      "Chỉ khai thác",
+      "Chỉ đánh cá",
+      "Chỉ du lịch"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 255,
+    "chapter": 8,
+    "question": "Hợp tác biển quốc tế cần tuân thủ nguyên tắc nào?",
+    "options": [
+      "Chiếm đoạt",
+      "Tôn trọng chủ quyền và luật pháp quốc tế",
+      "Đơn phương",
+      "Cấm biên giới"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 256,
+    "chapter": 8,
+    "question": "Công tác quản lý biên giới liên quan đến lĩnh vực nào?",
+    "options": [
+      "Chỉ quân sự",
+      "Chỉ thuế",
+      "Hành chính, kinh tế, quốc phòng và đối ngoại",
+      "Chỉ cảnh sát"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 257,
+    "chapter": 8,
+    "question": "Các quốc gia có quyền gì trên vùng biển quốc gia?",
+    "options": [
+      "Thao túng thông tin",
+      "Chặn mọi tàu",
+      "Chiếm vùng biển",
+      "Thực thi chủ quyền và quyền tài phán phù hợp luật pháp"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 258,
+    "chapter": 8,
+    "question": "Xây dựng thế trận biển, đảo cần dựa trên yếu tố nào?",
+    "options": [
+      "Vị trí chiến lược, dân cư và tiềm lực địa phương",
+      "Chỉ tàu thuyền",
+      "Chỉ hải quân",
+      "Chỉ ven bờ"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 259,
+    "chapter": 8,
+    "question": "Phòng chống tội phạm xuyên biên giới cần áp dụng biện pháp nào?",
+    "options": [
+      "Chỉ cảnh báo",
+      "Kiểm soát, phối hợp lực lượng và quản lý dữ liệu",
+      "Chỉ xây rào",
+      "Chỉ đóng cửa"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 260,
+    "chapter": 8,
+    "question": "Giữ vững chủ quyền lãnh thổ là nội dung của gì?",
+    "options": [
+      "Phát triển thương mại",
+      "Giáo dục",
+      "Bảo vệ Tổ quốc",
+      "Thể thao"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 261,
+    "chapter": 9,
+    "question": "Dân quân tự vệ biển là lực lượng hoạt động ở đâu?",
+    "options": [
+      "Đảo, ven biển và khu vực liên quan",
+      "Nội địa",
+      "Biên giới bộ",
+      "Miền núi"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 262,
+    "chapter": 9,
+    "question": "Dân quân là lực lượng quần chúng vũ trang được tổ chức ở đâu?",
+    "options": [
+      "Cơ quan trung ương",
+      "Địa phương",
+      "Doanh nghiệp tư nhân",
+      "Hải quân"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 263,
+    "chapter": 9,
+    "question": "Tự vệ là lực lượng quần chúng vũ trang được tổ chức ở đâu?",
+    "options": [
+      "Thôn, xã",
+      "Miền núi",
+      "Cơ quan, tổ chức, đơn vị",
+      "Khu quân sự"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 264,
+    "chapter": 9,
+    "question": "Dân quân tự vệ có trách nhiệm cơ bản nào?",
+    "options": [
+      "Chỉ làm công nhân",
+      "Chỉ làm cảnh sát giao thông",
+      "Chỉ quản lý đất đai",
+      "Chiến đấu, sẵn sàng chiến đấu và tham gia xây dựng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 265,
+    "chapter": 9,
+    "question": "Dân quân thường không thoát ly khỏi điều gì?",
+    "options": [
+      "Sản xuất và công tác",
+      "Nghĩa vụ công dân",
+      "Chương trình quân đội",
+      "Nghĩa vụ gia đình"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 266,
+    "chapter": 9,
+    "question": "Phương châm xây dựng dân quân tự vệ là gì?",
+    "options": [
+      "Chỉ rộng khắp",
+      "Vững mạnh, rộng khắp, lấy chất lượng làm chính",
+      "Chỉ số lượng",
+      "Chỉ tiêu chuẩn thể hình"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 267,
+    "chapter": 9,
+    "question": "Lực lượng dự bị động viên gồm những thành phần nào?",
+    "options": [
+      "Chỉ dân quân",
+      "Chỉ công an",
+      "Quân nhân dự bị và phương tiện kỹ thuật dự bị",
+      "Chỉ tự vệ"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 268,
+    "chapter": 9,
+    "question": "Quân nhân dự bị là công dân đã được huấn luyện và xếp loại trong bảng gì?",
+    "options": [
+      "Danh sách tham quan",
+      "Danh bạ công dân",
+      "Sổ lao động",
+      "Quản lý quân nhân dự bị"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 269,
+    "chapter": 9,
+    "question": "Dự bị động viên có vai trò gì?",
+    "options": [
+      "Bổ sung lực lượng khi động viên quốc phòng",
+      "Thay thế lực lượng thường trực",
+      "Chỉ dự trữ trang bị",
+      "Chỉ huấn luyện"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 270,
+    "chapter": 9,
+    "question": "Ngụ binh ư nông là chính sách gắn quân đội với điều gì?",
+    "options": [
+      "Phá rừng",
+      "Sản xuất nông nghiệp và địa phương",
+      "Kinh doanh thương mại",
+      "Cảng biển"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 271,
+    "chapter": 9,
+    "question": "Động viên công nghiệp quốc phòng là hoạt động chuyển đổi gì?",
+    "options": [
+      "Nhà máy sang tư nhân",
+      "Nông sản sang xuất khẩu",
+      "Năng lực công nghiệp sang phục vụ quốc phòng",
+      "Giáo dục sang quân sự"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 272,
+    "chapter": 9,
+    "question": "Chuẩn bị động viên công nghiệp cần thực hiện khi nào?",
+    "options": [
+      "Chỉ khi chiến tranh bùng nổ",
+      "Chỉ sau xung đột",
+      "Chỉ khi hết viện trợ",
+      "Từ thời bình"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 273,
+    "chapter": 9,
+    "question": "Xây dựng dự bị động viên cần quản lý yếu tố nào?",
+    "options": [
+      "Nhân lực, thiết bị và hồ sơ sẵn sàng",
+      "Chỉ nhân lực",
+      "Chỉ thiết bị",
+      "Chỉ ngân sách"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 274,
+    "chapter": 9,
+    "question": "Huấn luyện dân quân tự vệ cần gắn với điều gì?",
+    "options": [
+      "Chỉ lí thuyết",
+      "Kế hoạch địa phương và tình huống thực tế",
+      "Chỉ thể lực",
+      "Chỉ lao động"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 275,
+    "chapter": 9,
+    "question": "Dân quân tự vệ tại chỗ có nhiệm vụ bảo vệ điều gì?",
+    "options": [
+      "Thành phố",
+      "Biên giới quốc tế",
+      "An ninh, trật tự và địa bàn cơ sở",
+      "Cảng hàng không"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 276,
+    "chapter": 9,
+    "question": "Tổ chức dân quân tự vệ tại cơ quan nhằm mục đích gì?",
+    "options": [
+      "Chỉ quân phục",
+      "Chỉ tham gia thao trường",
+      "Chỉ thể lực",
+      "Củng cố nơi cư trú, công tác và địa bàn"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 277,
+    "chapter": 9,
+    "question": "Lực lượng dự bị động viên cần được đăng ký nhằm mục đích gì?",
+    "options": [
+      "Quản lý và huy động kịp thời",
+      "Chỉ thống kê",
+      "Chỉ thuế",
+      "Chỉ bầu cử"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 278,
+    "chapter": 9,
+    "question": "Sức mạnh dân quân tự vệ dựa trên điều gì?",
+    "options": [
+      "Chỉ trang bị",
+      "Tổ chức chặt chẽ, huấn luyện và liên kết nhân dân",
+      "Chỉ số lượng",
+      "Chỉ kinh nghiệm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 279,
+    "chapter": 9,
+    "question": "Dân quân tự vệ tham gia phòng chống thiên tai nhằm mục đích gì?",
+    "options": [
+      "Chỉ tuyên truyền",
+      "Chỉ kinh tế",
+      "Bảo vệ nhân dân và tài sản",
+      "Chỉ huấn luyện"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 280,
+    "chapter": 9,
+    "question": "Dự bị động viên công nghiệp góp phần gì?",
+    "options": [
+      "Giảm sản xuất",
+      "Chỉ xuất khẩu",
+      "Chỉ thay thế lao động",
+      "Tăng khả năng cung ứng trang thiết bị khi có yêu cầu"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 281,
+    "chapter": 10,
+    "question": "Phong trào toàn dân bảo vệ an ninh Tổ quốc có tính chất gì?",
+    "options": [
+      "Chỉ tự phát",
+      "Tự giác, có tổ chức và rộng rãi",
+      "Chỉ bắt buộc",
+      "Chỉ mang tính quân sự"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 282,
+    "chapter": 10,
+    "question": "Mục tiêu phong trào bảo vệ an ninh là gì?",
+    "options": [
+      "Chỉ bảo vệ tài sản cá nhân",
+      "Chỉ quản lý du lịch",
+      "Bảo vệ an ninh quốc gia và trật tự xã hội",
+      "Chỉ chống dịch"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 283,
+    "chapter": 10,
+    "question": "Người dân tham gia phong trào có thể thực hiện hoạt động nào?",
+    "options": [
+      "Tự xử án",
+      "Bắt giữ trái pháp luật",
+      "Lan truyền tin sai",
+      "Theo dõi, phát hiện và tố giác vi phạm"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 284,
+    "chapter": 10,
+    "question": "Đội an ninh trật tự ở cơ sở có vai trò gì?",
+    "options": [
+      "Phối hợp giữ an ninh và an toàn cộng đồng",
+      "Chỉ tham gia giao thông",
+      "Chỉ thu thuế",
+      "Chỉ tổ chức lễ hội"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 285,
+    "chapter": 10,
+    "question": "Nhóm phòng chống tội phạm cần hoạt động trên nguyên tắc nào?",
+    "options": [
+      "Tự điều tra bằng vũ lực",
+      "Tuân thủ pháp luật và phối hợp lực lượng chức năng",
+      "Công khai bí mật",
+      "Xử lý bêu riếu"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 286,
+    "chapter": 10,
+    "question": "Công dân có nghĩa vụ góp phần giữ an ninh bằng cách nào?",
+    "options": [
+      "Che giấu tội phạm",
+      "Lan truyền tin đồn",
+      "Tuân thủ pháp luật và cung cấp thông tin chính xác",
+      "Xâm phạm bí mật"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 287,
+    "chapter": 10,
+    "question": "Giữ an ninh mạng là trách nhiệm của ai?",
+    "options": [
+      "Chỉ công an",
+      "Chỉ doanh nghiệp",
+      "Chỉ sinh viên",
+      "Cơ quan, tổ chức, cộng đồng và người sử dụng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 288,
+    "chapter": 10,
+    "question": "Phòng chống ma túy cần áp dụng biện pháp nào?",
+    "options": [
+      "Giáo dục, quản lý, phát hiện và hỗ trợ cai nghiện",
+      "Chỉ trừng phạt",
+      "Chỉ che giấu",
+      "Chỉ bỏ qua"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 289,
+    "chapter": 10,
+    "question": "Phòng chống tội phạm bạo lực cần dựa trên điều gì?",
+    "options": [
+      "Chỉ báo chí",
+      "Hiểu rõ địa bàn, phối hợp lực lượng và tuyên truyền",
+      "Chỉ tòa án",
+      "Chỉ vũ lực"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 290,
+    "chapter": 10,
+    "question": "Bảo vệ an ninh kinh tế liên quan đến hoạt động nào?",
+    "options": [
+      "Chỉ thu thuế",
+      "Chỉ xuất nhập khẩu",
+      "Bảo đảm hệ thống tài chính, sản xuất và dữ liệu",
+      "Chỉ ngân hàng"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 291,
+    "chapter": 10,
+    "question": "An ninh phi truyền thống bao gồm vấn đề nào?",
+    "options": [
+      "Chỉ tội phạm",
+      "Chỉ chiến tranh",
+      "Chỉ khủng bố",
+      "An ninh mạng, môi trường, tài nguyên và dịch bệnh"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 292,
+    "chapter": 10,
+    "question": "Sinh viên góp phần bảo vệ an ninh Tổ quốc bằng cách nào?",
+    "options": [
+      "Nâng cao nhận thức, kỹ năng tự vệ và tuân thủ pháp luật",
+      "Chỉ học chuyên ngành",
+      "Chỉ tham gia thể thao",
+      "Chỉ làm báo cáo"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 293,
+    "chapter": 10,
+    "question": "Phòng chống lợi dụng mạng xã hội cần lưu ý điều gì?",
+    "options": [
+      "Chia sẻ mọi tin",
+      "Kiểm chứng thông tin và bảo vệ dữ liệu cá nhân",
+      "Bắt nạt người khác",
+      "Tiết lộ bí mật"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 294,
+    "chapter": 10,
+    "question": "An ninh cộng đồng được duy trì qua yếu tố nào?",
+    "options": [
+      "Chỉ cảnh sát",
+      "Chỉ chính quyền",
+      "Đoàn kết, giám sát, thông tin và tham gia tự giác",
+      "Chỉ tòa án"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 295,
+    "chapter": 10,
+    "question": "Nội dung phòng chống khủng bố là gì?",
+    "options": [
+      "Chỉ tuyên truyền",
+      "Chỉ giam giữ",
+      "Chỉ đóng cửa",
+      "Phát hiện nguy cơ, bảo vệ mục tiêu và phối hợp xử lý"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 296,
+    "chapter": 10,
+    "question": "Tội phạm ma túy tác động lớn đến lĩnh vực nào?",
+    "options": [
+      "An ninh, sức khỏe, gia đình và xã hội",
+      "Chỉ ngân sách",
+      "Chỉ du lịch",
+      "Chỉ thể thao"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 297,
+    "chapter": 10,
+    "question": "An ninh trật tự đường phố phụ thuộc vào yếu tố nào?",
+    "options": [
+      "Chỉ đèn tín hiệu",
+      "Tuân thủ luật giao thông và quản lý cộng đồng",
+      "Chỉ biển báo",
+      "Chỉ phương tiện"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 298,
+    "chapter": 10,
+    "question": "Phòng cháy chữa cháy trong cộng đồng cần chú trọng điều gì?",
+    "options": [
+      "Chỉ chữa cháy",
+      "Chỉ mua máy bơm",
+      "Biện pháp phòng ngừa, thoát nạn và thông tin liên lạc",
+      "Chỉ sơ tán sau cháy"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 299,
+    "chapter": 10,
+    "question": "Phòng chống thiên tai trong an ninh nhân dân gắn với nhiệm vụ gì?",
+    "options": [
+      "Chỉ dự báo",
+      "Chỉ cứu trợ",
+      "Chỉ sửa chữa",
+      "Cảnh báo, ứng phó, cứu nạn và khắc phục"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 300,
+    "chapter": 10,
+    "question": "Xây dựng phong trào toàn dân bảo vệ an ninh cần đảm bảo điều gì?",
+    "options": [
+      "Tổ chức rộng khắp, pháp luật rõ ràng và lãnh đạo chặt chẽ",
+      "Chỉ quy mô",
+      "Chỉ sức ép",
+      "Chỉ bắt buộc"
+    ],
+    "answer": "A"
   }
 ]
