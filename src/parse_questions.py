@@ -64,6 +64,22 @@ result = [
      "options": [q["options"].get(k, "") for k in "ABCD"], "answer": q["answer"]}
     for q in (questions[i] for i in ids)
 ]
+
+# Loại bỏ câu trùng nghĩa bằng tập hợp đáp án giống nhau.
+# Giữ câu xuất hiện đầu tiên và đánh số lại liên tục.
+unique = []
+seen_option_sets = set()
+for q in result:
+    option_set = tuple(sorted(option.strip() for option in q["options"]))
+    if option_set in seen_option_sets:
+        continue
+    seen_option_sets.add(option_set)
+    unique.append(q)
+
+for new_id, q in enumerate(unique, start=1):
+    q["id"] = new_id
+
+result = unique
 with open(out, "w", encoding="utf-8") as f:
     json.dump(result, f, ensure_ascii=False, indent=2)
 with open(out.replace("questions", "chapters"), "w", encoding="utf-8") as f:
